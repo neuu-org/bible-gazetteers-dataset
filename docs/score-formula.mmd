@@ -1,0 +1,51 @@
+flowchart LR
+    subgraph ENTITY["Score de Entidade"]
+        direction TB
+        TR["total_refs × 2"]
+        CV["coverage × 1.5"]
+        RG["ref_groups × 1"]
+        CE["centrality × 0.5"]
+        TS["total_score =\nsoma ponderada"]
+
+        TR --> TS
+        CV --> TS
+        RG --> TS
+        CE --> TS
+    end
+
+    subgraph SYMBOL["Score de Símbolo"]
+        direction TB
+        FR["frequency × 3"]
+        CO["coverage × 2"]
+        MR["meanings × 1"]
+        CC["concepts × 0.5"]
+        SS["total_score =\nsoma ponderada"]
+
+        FR --> SS
+        CO --> SS
+        MR --> SS
+        CC --> SS
+    end
+
+    subgraph NORMALIZE["Normalização"]
+        direction TB
+        NS["total_score / max_score\n→ 0.0 a 1.0"]
+        NF["frequency / max_freq\n→ 0.0 a 1.0"]
+        NC["coverage / max_cov\n→ 0.0 a 1.0"]
+        CM["combined =\n50% score +\n25% freq +\n25% cov"]
+        BO["boost =\n1.0 + combined × 3.0\n→ 1.0 a 4.0"]
+        PR["priority =\ncombined × 100\n→ 0 a 100"]
+
+        NS --> CM
+        NF --> CM
+        NC --> CM
+        CM --> BO
+        CM --> PR
+    end
+
+    TS --> NS
+    SS --> NS
+
+    style ENTITY fill:#e3f2fd,stroke:#1565c0,stroke-width:1px
+    style SYMBOL fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1px
+    style NORMALIZE fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px

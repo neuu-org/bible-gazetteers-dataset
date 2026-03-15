@@ -1,0 +1,25 @@
+flowchart TD
+    TOPICS["bible-topics-dataset\n7.873 tópicos V3"]
+    GAZ_RAW["Gazetteers brutos\nEntidades + Símbolos\n(extraídos pelo Phase 0)"]
+
+    subgraph CALC["calculate_metrics.py"]
+        direction TB
+        E1["1. Cruzar entidade\ncom tópicos associados"]
+        E2["2. Contar frequência\n(em quantos tópicos aparece)"]
+        E3["3. Medir cobertura\n(quantos livros bíblicos)"]
+        E4["4. Calcular centralidade\n(peso na rede de cross-refs)"]
+        E5["5. Normalizar scores\n(0-1 por namespace)"]
+        E6["6. Gerar boost e priority\n(1.0-4.0 e 0-100)"]
+
+        E1 --> E2 --> E3 --> E4 --> E5 --> E6
+    end
+
+    GAZ_CURATED["Gazetteers curados\n100% ACTIVE\ncom boost + priority + metrics"]
+
+    TOPICS --> CALC
+    GAZ_RAW --> CALC --> GAZ_CURATED
+
+    style TOPICS fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#333
+    style GAZ_RAW fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#333
+    style CALC fill:#fafafa,stroke:#999,stroke-width:1px
+    style GAZ_CURATED fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#333

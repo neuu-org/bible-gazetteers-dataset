@@ -12,17 +12,69 @@ Part of the [NEUU](https://github.com/neuu-org) biblical scholarship ecosystem.
 | **Symbols** | 347 | 7 | Natural elements, objects, actions, colors |
 | **Relationships** | 436 | 53 types | Connections between entities |
 
+All entries are **100% curated** (ACTIVE status) with computed boost and priority metrics.
+
+## Quick Start
+
+For direct consumption, use the **structured** files — clean flat lists sorted by importance:
+
+```python
+import json
+
+with open("data/pt/structured/entities.json") as f:
+    entities = json.load(f)
+
+# Top 5 most important entities
+for e in entities[:5]:
+    print(f"{e['name']:20s} boost={e['boost']}  type={e['type']}")
+
+# Output:
+# Satanás              boost=4.0   type=ANGEL
+# Jerusalém            boost=4.0   type=PLACE
+# Cristo               boost=3.96  type=DEITY
+# Ezequiel             boost=3.89  type=PERSON
+# Isaías               boost=3.8   type=PERSON
+```
+
 ## Structure
 
 ```
 bible-gazetteers-dataset/
 ├── data/
-│   └── pt/                         # Portuguese (primary language)
-│       ├── entities.json           # 2,474 biblical entities
-│       ├── symbols.json            # 347 biblical symbols
-│       └── relationships.json      # 436 entity relationships
+│   └── pt/
+│       ├── entities.json              # Raw (pipeline format, nested by namespace)
+│       ├── symbols.json               # Raw (pipeline format, nested by namespace)
+│       ├── relationships.json         # Raw (with _metadata, by_type index)
+│       └── structured/                # Clean flat format for consumption
+│           ├── entities.json          # 2,474 entries as flat list (-51% size)
+│           ├── symbols.json           # 347 entries as flat list
+│           └── relationships.json     # 436 entries as flat list
 │   └── (future: en/, es/, etc.)
+│
+├── scripts/
+│   ├── calculate_metrics.py           # Compute boost/priority from topics V3
+│   └── structure.py                   # Raw → structured (clean flat format)
+│
+├── docs/
+│   ├── figures/                       # Pipeline and formula diagrams
+│   ├── metrics-pipeline.mmd           # Mermaid source
+│   └── score-formula.mmd             # Mermaid source
+│
+├── METHODOLOGY.md                     # Full metrics methodology with diagrams
+├── CHANGELOG.md
+└── LICENSE
 ```
+
+### Raw vs Structured
+
+| Aspect | Raw (`data/pt/*.json`) | Structured (`data/pt/structured/*.json`) |
+|--------|----------------------|----------------------------------------|
+| Format | Nested by namespace `{PERSON: {name: {...}}}` | Flat list `[{name, ...}]` |
+| Pipeline fields | Includes source_topics, metrics, status, last_updated | Removed |
+| Null values | Present | Removed |
+| Size | 2,249 KB | 1,105 KB (-51%) |
+| Sort order | By namespace, then alphabetical | By boost (most important first) |
+| Use case | Pipeline development, debugging | Direct consumption, NLP, search |
 
 ## Entities
 
@@ -40,20 +92,17 @@ bible-gazetteers-dataset/
 | ANGEL | 15 | Miguel, Gabriel |
 | LITERARY_WORK | 15 | Torah, Evangelho |
 
-Schema per entity:
+**Structured schema** (clean):
 ```json
 {
-  "canonical_id": "PER:aarao",
-  "type": "PERSON",
-  "aliases": ["Aarao"],
-  "description": "Personagem presente na narrativa biblica.",
-  "categories": ["Pessoa"],
-  "lang": "pt",
-  "status": "ACTIVE",
-  "boost": null,
-  "priority": null,
-  "source_topics": [],
-  "metrics": {}
+  "name": "Jerusalém",
+  "canonical_id": "LOC:jerusalem",
+  "type": "PLACE",
+  "aliases": ["Cidade de Davi", "Cidade Santa", "Monte Sião", "Nova Jerusalém", "Sião"],
+  "description": "Local da crucificação",
+  "categories": ["Cidade Santa", "Escatologia", "Lugar"],
+  "boost": 4.0,
+  "priority": 100
 }
 ```
 
@@ -71,19 +120,18 @@ Schema per entity:
 | NUMBER | 2 | 7, 12, 40 |
 | PLACE | 2 | Deserto, Montanha |
 
-Schema per symbol:
+**Structured schema** (clean):
 ```json
 {
+  "name": "Água",
   "canonical_id": "NAT:agua",
   "type": "NATURAL",
-  "aliases": ["chuva", "fontes", "mar", "rio", "agua"],
+  "aliases": ["chuva", "fontes", "mar", "rio", "água"],
   "literal_meaning": "H2O, elemento essencial para a vida",
-  "symbolic_meaning": ["Purificacao", "Juizo", "Espirito Santo", "Novo nascimento"],
-  "associated_concepts": ["batismo", "vida eterna"],
-  "bible_examples": [],
-  "boost": null,
-  "priority": null,
-  "status": "PENDING_REVIEW"
+  "symbolic_meaning": ["Purificação", "Juízo", "Espírito Santo", "Novo nascimento"],
+  "bible_examples": [{"ref": "Mt 4:2", "context": "..."}],
+  "boost": 3.85,
+  "priority": 95
 }
 ```
 
@@ -100,28 +148,54 @@ Schema per symbol:
 | CONTEMPORARY_OF | 36 |
 | ALLY_OF | 28 |
 | SPOUSE_OF | 25 |
-| EXEMPLIFIED_BY | 25 |
-| CHILD_OF | 19 |
 
-Schema per relationship:
+**Schema:**
 ```json
 {
   "source": "Aarat",
-  "target": "Noe",
+  "target": "Noé",
   "target_type": "PERSON",
   "type": "PART_OF",
-  "description": "Aarat e o local onde a arca de Noe repousou apos o diluvio.",
+  "description": "Aarat é o local onde a arca de Noé repousou após o dilúvio.",
   "source_topic": "aarat"
 }
 ```
 
+## Pipeline
+
+```
+bible-topics-dataset (7,873 topics)
+        ↓ Phase 0 (AI extraction)
+Raw gazetteers (entities + symbols + relationships)
+        ↓ calculate_metrics.py
+Curated gazetteers (100% ACTIVE with boost/priority)
+        ↓ structure.py
+Structured gazetteers (clean flat format, -51% size)
+```
+
+### Dependencies
+
+| Dependency | Repository | Used for |
+|-----------|-----------|----------|
+| **Topics V3** | [bible-topics-dataset](https://github.com/neuu-org/bible-topics-dataset) | Source data + metrics calculation |
+| **Cross-references** | [bible-crossrefs-dataset](https://github.com/neuu-org/bible-crossrefs-dataset) | Centrality metrics |
+| **Bible text** | [bible-text-dataset](https://github.com/neuu-org/bible-text-dataset) | Coverage calculation |
+
+> Full methodology: [METHODOLOGY.md](METHODOLOGY.md)
+
+## Scripts
+
+```bash
+# Recalculate boost/priority from topics V3
+python scripts/calculate_metrics.py --topics-dir ../bible-topics-dataset/data/01_unified
+
+# Regenerate structured files from raw
+python scripts/structure.py
+```
+
 ## Language
 
-Current data is in **Portuguese (pt)**. The `data/pt/` structure supports future multilingual expansion (`data/en/`, `data/es/`, etc.).
-
-## Provenance
-
-Generated from the [bible-topics-dataset](https://github.com/neuu-org/bible-topics-dataset) via the topical enrichment pipeline (Phase 0 + Phase 3). Entities and symbols were extracted from AI-enriched topic analysis.
+Current data is in **Portuguese (pt)**. The `data/pt/` structure supports future multilingual expansion.
 
 ## License
 

@@ -1,0 +1,3490 @@
+[
+  {
+    "source": "Aarat",
+    "target": "Noé",
+    "target_type": "PERSON",
+    "type": "PART_OF",
+    "description": "Aarat é o local onde a arca de Noé repousou após o dilúvio.",
+    "source_topic": "aarat"
+  },
+  {
+    "source": "Aarat",
+    "target": "Sennacherib",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Os filhos de Sennacherib buscaram refúgio em Aarat, destacando a relação entre a Assíria e a região.",
+    "source_topic": "aarat"
+  },
+  {
+    "source": "AARON",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Arão é irmão mais velho de Moisés, atuando como seu porta-voz e colaborador.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "AARON",
+    "target": "Elisabea",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Arão é casado com Elisabea, com quem teve quatro filhos.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "AARON",
+    "target": "Nadabe",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Arão é pai de Nadabe, um dos sacerdotes que serviram no Tabernáculo.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "AARON",
+    "target": "Abiú",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Arão é pai de Abiú, que também atuou como sacerdote.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "AARON",
+    "target": "Eleazar",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Arão é pai de Eleazar, que sucedeu Arão como sumo sacerdote.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "AARON",
+    "target": "Itamar",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Arão é pai de Itamar, que também serviu como sacerdote.",
+    "source_topic": "aaron"
+  },
+  {
+    "source": "Aaronites",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Os Aaronitas apoiaram Davi em sua ascensão ao trono de Israel.",
+    "source_topic": "aaronites"
+  },
+  {
+    "source": "Aaronites",
+    "target": "Eleazar",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Eleazar foi um dos líderes dos Aaronitas, desempenhando um papel crucial no sacerdócio.",
+    "source_topic": "aaronites"
+  },
+  {
+    "source": "Aaronites",
+    "target": "Zadok",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Zadok foi um líder importante dos Aaronitas em um período posterior, consolidando a linhagem sacerdotal.",
+    "source_topic": "aaronites"
+  },
+  {
+    "source": "ABAGTHA",
+    "target": "Ahasuerus",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abagtha é um dos eunucos que servem na corte de Ahasuerus.",
+    "source_topic": "abagtha"
+  },
+  {
+    "source": "ABANA",
+    "target": "Naamã",
+    "target_type": "PERSON",
+    "type": "HEALED_BY",
+    "description": "Naamã foi curado de sua lepra ao obedecer à instrução de mergulhar no rio Abana.",
+    "source_topic": "abana"
+  },
+  {
+    "source": "ABARIM",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou o povo de Israel durante a jornada até Abarim.",
+    "source_topic": "abarim"
+  },
+  {
+    "source": "ABDA",
+    "target": "Adoniram",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abda é o pai de Adoniram, que supervisionou o tributo em Israel.",
+    "source_topic": "abda"
+  },
+  {
+    "source": "ABDA",
+    "target": "Jedutun",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abda é um levita da família de Jedutun.",
+    "source_topic": "abda"
+  },
+  {
+    "source": "ABDON",
+    "target": "Hillel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Hillel é o pai de Abdon.",
+    "source_topic": "abdon"
+  },
+  {
+    "source": "ABDON",
+    "target": "Josias",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josias era o rei de Judá que consultou Abdon e outros sobre a Lei.",
+    "source_topic": "abdon"
+  },
+  {
+    "source": "ABDON",
+    "target": "Huldah",
+    "target_type": "PERSON",
+    "type": "DISCIPLE_OF",
+    "description": "Abdon foi um dos que consultou Huldah para entender a Lei.",
+    "source_topic": "abdon"
+  },
+  {
+    "source": "ABDON",
+    "target": "Gibeon",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Abdon é mencionado como filho de Gibeon, destacando sua linhagem.",
+    "source_topic": "abdon"
+  },
+  {
+    "source": "ABED-NEGO",
+    "target": "Sadraque",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abed-Nego e Sadraque viveram na mesma época e enfrentaram juntos a pressão de adorar a estátua de Nabucodonosor.",
+    "source_topic": "abed-nego"
+  },
+  {
+    "source": "ABED-NEGO",
+    "target": "Mesaque",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abed-Nego e Mesaque eram companheiros e juntos resistiram à ordem do rei.",
+    "source_topic": "abed-nego"
+  },
+  {
+    "source": "ABED-NEGO",
+    "target": "Nabucodonosor",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Nabucodonosor se opôs a Abed-Nego ao exigir adoração à sua estátua.",
+    "source_topic": "abed-nego"
+  },
+  {
+    "source": "Abednego",
+    "target": "Daniel",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abednego viveu na mesma época que Daniel e era um de seus amigos e companheiros.",
+    "source_topic": "abednego"
+  },
+  {
+    "source": "Abednego",
+    "target": "Nabucodonosor",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Nabucodonosor se opôs a Abednego ao exigir adoração à sua estátua.",
+    "source_topic": "abednego"
+  },
+  {
+    "source": "ABEL-BETH-MAACHAH",
+    "target": "Joab",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Joab era o comandante do exército de Israel que cercou Abel-Beth-Maacah.",
+    "source_topic": "abel-beth-maachah"
+  },
+  {
+    "source": "ABEL-BETH-MAACHAH",
+    "target": "Benhadade",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Benhadade foi um dos inimigos que conquistou Abel-Beth-Maacah.",
+    "source_topic": "abel-beth-maachah"
+  },
+  {
+    "source": "ABEL-BETH-MAACHAH",
+    "target": "Tiglate-Pileser",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Tiglate-Pileser foi o rei assírio que tomou a cidade, representando uma ameaça à nação de Israel.",
+    "source_topic": "abel-beth-maachah"
+  },
+  {
+    "source": "Abel-cheramim",
+    "target": "Jefté",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Jefté liderou as forças de Israel na batalha contra os amonitas em Abel-cheramim.",
+    "source_topic": "abel-cheramim"
+  },
+  {
+    "source": "Abel-cheramim",
+    "target": "Amonitas",
+    "target_type": "PLACE",
+    "type": "ENEMY_OF",
+    "description": "Os amonitas eram inimigos de Israel durante o período dos juízes.",
+    "source_topic": "abel-cheramim"
+  },
+  {
+    "source": "ABEL-MEHOLAH",
+    "target": "Eliseu",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Eliseu é o sucessor de Elias, chamado em Abel-Meholah.",
+    "source_topic": "abel-meholah"
+  },
+  {
+    "source": "ABEL-MEHOLAH",
+    "target": "Elias",
+    "target_type": "PERSON",
+    "type": "MENTOR_OF",
+    "description": "Elias é o mentor de Eliseu, que o ungiu em Abel-Meholah.",
+    "source_topic": "abel-meholah"
+  },
+  {
+    "source": "ABEL-MIZRAIM",
+    "target": "Jacó",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Jacó é o pai de José, que levou sua família ao Egito, onde o luto ocorreu.",
+    "source_topic": "abel-mizraim"
+  },
+  {
+    "source": "ABEL-MIZRAIM",
+    "target": "Egito",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Abel-Mizraim é um local que se encontra no Egito, onde os egípcios lamentaram a morte de Jacó.",
+    "source_topic": "abel-mizraim"
+  },
+  {
+    "source": "ABEL-SHITTIM",
+    "target": "Finéias",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Finéias liderou a resposta contra a idolatria em Shittim.",
+    "source_topic": "abel-shittim"
+  },
+  {
+    "source": "ABEL",
+    "target": "Caim",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Abel é irmão de Caim, que o matou por inveja.",
+    "source_topic": "abel"
+  },
+  {
+    "source": "ABEL",
+    "target": "Adão",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abel é filho de Adão e Eva.",
+    "source_topic": "abel"
+  },
+  {
+    "source": "ABEL",
+    "target": "Eva",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abel é filho de Adão e Eva.",
+    "source_topic": "abel"
+  },
+  {
+    "source": "Abelmeholah",
+    "target": "Eliseu",
+    "target_type": "PERSON",
+    "type": "DISCIPLE_OF",
+    "description": "Eliseu foi discípulo de Elias, que o chamou em Abelmeholah.",
+    "source_topic": "abelmeholah"
+  },
+  {
+    "source": "Abelmeholah",
+    "target": "Gideão",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Gideão e Eliseu viveram em épocas próximas, ambos desempenhando papéis significativos na história de Israel.",
+    "source_topic": "abelmeholah"
+  },
+  {
+    "source": "ABI-ALBON",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abi-Albon era um membro da guarda pessoal de Davi, servindo como um de seus valentes guerreiros.",
+    "source_topic": "abi-albon"
+  },
+  {
+    "source": "ABI",
+    "target": "Ezequias",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abi é a mãe de Ezequias, rei de Judá.",
+    "source_topic": "abi"
+  },
+  {
+    "source": "Abia, Abiah, Or Abijah",
+    "target": "Jeroboão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abia foi um oponente de Jeroboão durante seu reinado.",
+    "source_topic": "abia-abiah-or-abijah"
+  },
+  {
+    "source": "ABIA",
+    "target": "Samuel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abia é filho de Samuel, o profeta e juiz de Israel.",
+    "source_topic": "abia"
+  },
+  {
+    "source": "ABIAH",
+    "target": "Hezron",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Abiah é esposa de Hezron, formando parte da linhagem de Judá.",
+    "source_topic": "abiah"
+  },
+  {
+    "source": "ABIASAPH",
+    "target": "Corá",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiasaph é filho de Corá, um levita importante.",
+    "source_topic": "abiasaph"
+  },
+  {
+    "source": "ABIASAPH",
+    "target": "Samuel",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Samuel é um descendente notável de Abiasaph.",
+    "source_topic": "abiasaph"
+  },
+  {
+    "source": "ABIASAPH",
+    "target": "Heman",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Heman é outro descendente de Abiasaph, conhecido por seu papel na música do templo.",
+    "source_topic": "abiasaph"
+  },
+  {
+    "source": "ABIATHAR",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abiathar foi um aliado leal de Davi durante sua ascensão ao trono.",
+    "source_topic": "abiathar"
+  },
+  {
+    "source": "ABIATHAR",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abiathar se opôs a Salomão ao apoiar Adonias, resultando em sua deposição.",
+    "source_topic": "abiathar"
+  },
+  {
+    "source": "ABIATHAR",
+    "target": "Zadok",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Zadok sucedeu Abiathar como sumo sacerdote após sua deposição.",
+    "source_topic": "abiathar"
+  },
+  {
+    "source": "ABIATHAR",
+    "target": "Ahimelech",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiathar é filho de Ahimelech, o sumo sacerdote assassinado por Saul.",
+    "source_topic": "abiathar"
+  },
+  {
+    "source": "ABIB",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou os israelitas durante a saída do Egito, que ocorreu no mês de Abib.",
+    "source_topic": "abib"
+  },
+  {
+    "source": "ABIB",
+    "target": "Egito",
+    "target_type": "PLACE",
+    "type": "ENEMY_OF",
+    "description": "O Egito era o opressor dos israelitas antes de sua libertação no mês de Abib.",
+    "source_topic": "abib"
+  },
+  {
+    "source": "ABIB",
+    "target": "Canaã",
+    "target_type": "PLACE",
+    "type": "PROMISED_TO",
+    "description": "Canaã foi prometida por Deus aos israelitas como a terra que eles herdariam após a libertação.",
+    "source_topic": "abib"
+  },
+  {
+    "source": "ABIDA",
+    "target": "Midiã",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abida é filho de Midiã.",
+    "source_topic": "abida"
+  },
+  {
+    "source": "ABIDA",
+    "target": "Abraão",
+    "target_type": "PERSON",
+    "type": "GRANDCHILD_OF",
+    "description": "Abida é neto de Abraão.",
+    "source_topic": "abida"
+  },
+  {
+    "source": "Abieezer",
+    "target": "Gideão",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abieezer é o ancestral de Gideão, influenciando sua liderança em Israel.",
+    "source_topic": "abieezer"
+  },
+  {
+    "source": "Abieezer",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abieezer foi um dos guerreiros leais de Davi, lutando ao seu lado.",
+    "source_topic": "abieezer"
+  },
+  {
+    "source": "Abieezer",
+    "target": "Manassés",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abieezer é neto de Manassés, ligando-o à tribo de Manassés.",
+    "source_topic": "abieezer"
+  },
+  {
+    "source": "Abieezer",
+    "target": "Hammoleketh",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Hammoleketh é a mãe de Abieezer, destacando sua linhagem.",
+    "source_topic": "abieezer"
+  },
+  {
+    "source": "Abieezer",
+    "target": "Dã",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Abieezer era príncipe da tribo de Dã, representando sua liderança tribal.",
+    "source_topic": "abieezer"
+  },
+  {
+    "source": "ABIEL",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiel é o avô de Saul, o primeiro rei de Israel.",
+    "source_topic": "abiel"
+  },
+  {
+    "source": "ABIEL",
+    "target": "Ner",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiel é o pai de Ner, que é o pai de Saul.",
+    "source_topic": "abiel"
+  },
+  {
+    "source": "ABIEL",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abiel é um dos guerreiros que serviram sob David.",
+    "source_topic": "abiel"
+  },
+  {
+    "source": "ABIEZER",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abiezer é um dos valentes que apoiaram Davi em suas batalhas.",
+    "source_topic": "abiezer"
+  },
+  {
+    "source": "ABIEZER",
+    "target": "Manassés",
+    "target_type": "CONCEPT",
+    "type": "MEMBER_OF",
+    "description": "Abiezer é um membro da tribo de Manassés, contribuindo para a identidade tribal.",
+    "source_topic": "abiezer"
+  },
+  {
+    "source": "Abiezrite",
+    "target": "Gideão",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abiezrite é contemporâneo de Gideão, participando do contexto da libertação de Israel.",
+    "source_topic": "abiezrite"
+  },
+  {
+    "source": "Abiezrite",
+    "target": "Abiezer",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiezrite é descendente de Abiezer, ligando-o à linhagem de Israel.",
+    "source_topic": "abiezrite"
+  },
+  {
+    "source": "ABIGAIL",
+    "target": "Nabal",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Abigail foi esposa de Nabal antes de se casar com Davi.",
+    "source_topic": "abigail"
+  },
+  {
+    "source": "ABIGAIL",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Após a morte de Nabal, Abigail se tornou esposa de Davi.",
+    "source_topic": "abigail"
+  },
+  {
+    "source": "ABIGAIL",
+    "target": "Chileab",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abigail é mãe de Chileab, filho de Davi.",
+    "source_topic": "abigail"
+  },
+  {
+    "source": "ABIHAIL",
+    "target": "Esther",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abihail é o pai de Esther, que desempenha um papel crucial na salvação do povo judeu.",
+    "source_topic": "abihail"
+  },
+  {
+    "source": "ABIHAIL",
+    "target": "Roboão",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Abihail é a segunda esposa de Roboão, rei de Judá.",
+    "source_topic": "abihail"
+  },
+  {
+    "source": "ABIHAIL",
+    "target": "Zuriel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abihail é o pai de Zuriel, um líder da tribo de Levi.",
+    "source_topic": "abihail"
+  },
+  {
+    "source": "ABIHAIL",
+    "target": "Eliab",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abihail é descendente de Eliab, irmão de Davi, conectando-o à linhagem real.",
+    "source_topic": "abihail"
+  },
+  {
+    "source": "ABIHU",
+    "target": "Arão",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abihu é filho de Arão, o sumo sacerdote de Israel.",
+    "source_topic": "abihu"
+  },
+  {
+    "source": "ABIHU",
+    "target": "Nadabe",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Abihu é irmão de Nadabe, com quem cometeu a transgressão.",
+    "source_topic": "abihu"
+  },
+  {
+    "source": "Abijah Or Abijam",
+    "target": "Roboão",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abijah é filho de Roboão, o rei de Judá.",
+    "source_topic": "abijah-or-abijam"
+  },
+  {
+    "source": "Abijah Or Abijam",
+    "target": "Jeroboão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abijah foi oponente de Jeroboão, rei de Israel, durante seu reinado.",
+    "source_topic": "abijah-or-abijam"
+  },
+  {
+    "source": "Abijah Or Abijam",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "GRANDFATHER_OF",
+    "description": "Salomão é o avô de Abijah, sendo pai de Roboão.",
+    "source_topic": "abijah-or-abijam"
+  },
+  {
+    "source": "ABIJAH",
+    "target": "Rehoboam",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abijah é filho de Rehoboam, o rei anterior de Judá.",
+    "source_topic": "abijah"
+  },
+  {
+    "source": "ABIJAH",
+    "target": "Jeroboão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abijah se opôs a Jeroboão na batalha pela lealdade das tribos de Israel.",
+    "source_topic": "abijah"
+  },
+  {
+    "source": "ABIJAH",
+    "target": "Eleazar",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abijah é descendente de Eleazar, filho de Arão, ligando-o à linhagem sacerdotal.",
+    "source_topic": "abijah"
+  },
+  {
+    "source": "ABIJAM",
+    "target": "Reoboão",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abijam é filho de Reoboão, o rei anterior de Judá.",
+    "source_topic": "abijam"
+  },
+  {
+    "source": "ABIJAM",
+    "target": "Asa",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Abijam foi sucedido por Asa, que se tornou rei de Judá após sua morte.",
+    "source_topic": "abijam"
+  },
+  {
+    "source": "ABILENE",
+    "target": "Lysanias",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Lysanias era o tetrarca que governava a província de Abilene.",
+    "source_topic": "abilene"
+  },
+  {
+    "source": "ABIMELECH",
+    "target": "Abraão",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abimelech viveu na mesma época que Abraão e teve interações significativas com ele.",
+    "source_topic": "abimelech"
+  },
+  {
+    "source": "ABIMELECH",
+    "target": "Isaque",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abimelech também interagiu com Isaque, filho de Abraão, em um contexto semelhante.",
+    "source_topic": "abimelech"
+  },
+  {
+    "source": "ABINADAB",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Abinadabe viveu na mesma época que Davi, participando de eventos significativos na história de Israel.",
+    "source_topic": "abinadab"
+  },
+  {
+    "source": "ABINADAB",
+    "target": "Jessé",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abinadabe é filho de Jessé, ligando-o à linhagem real de Israel.",
+    "source_topic": "abinadab"
+  },
+  {
+    "source": "ABINADAB",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abinadabe é um dos filhos de Saul, que foi o primeiro rei de Israel.",
+    "source_topic": "abinadab"
+  },
+  {
+    "source": "ABINADAB",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Salomão sucedeu Saul e Davi como rei de Israel, e Abinadabe é mencionado em seu governo.",
+    "source_topic": "abinadab"
+  },
+  {
+    "source": "ABINOAM",
+    "target": "Barak",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abinoam é o pai de Barak, um líder importante na história de Israel.",
+    "source_topic": "abinoam"
+  },
+  {
+    "source": "ABINOAM",
+    "target": "Débora",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Barak e Débora trabalharam juntos para libertar Israel da opressão cananeia.",
+    "source_topic": "abinoam"
+  },
+  {
+    "source": "ABIRAM",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abiram se opôs a Moisés durante a rebelião.",
+    "source_topic": "abiram"
+  },
+  {
+    "source": "ABIRAM",
+    "target": "Arão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Abiram se opôs a Arão junto com Moisés.",
+    "source_topic": "abiram"
+  },
+  {
+    "source": "ABIRAM",
+    "target": "Hiel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Hiel é o pai de Abiram, que morreu devido à maldição de Jericó.",
+    "source_topic": "abiram"
+  },
+  {
+    "source": "ABISHAG",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Abishag foi parte do harém de Davi, simbolizando seu papel como cuidadora.",
+    "source_topic": "abishag"
+  },
+  {
+    "source": "ABISHAG",
+    "target": "Adonias",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Adonias é irmão de Salomão e filho de Davi, que tentou reivindicar Abishag como esposa.",
+    "source_topic": "abishag"
+  },
+  {
+    "source": "ABISHAG",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Salomão é filho de Davi e, após a morte do pai, toma decisões que afetam a vida de Abishag.",
+    "source_topic": "abishag"
+  },
+  {
+    "source": "Abishai, Or Abishai",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abishai era um aliado leal de David, lutando ao seu lado em várias batalhas.",
+    "source_topic": "abishai-or-abishai"
+  },
+  {
+    "source": "Abishai, Or Abishai",
+    "target": "Joab",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Abishai era irmão de Joab, ambos filhos de Zeruiah e guerreiros de David.",
+    "source_topic": "abishai-or-abishai"
+  },
+  {
+    "source": "Abishai, Or Abishai",
+    "target": "Asahel",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Abishai era irmão de Asahel, que também era um valente guerreiro.",
+    "source_topic": "abishai-or-abishai"
+  },
+  {
+    "source": "ABISHALOM",
+    "target": "Maachah",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abishalom é o pai ou avô de Maachah, que é uma figura importante na linhagem de Judá.",
+    "source_topic": "abishalom"
+  },
+  {
+    "source": "ABISHALOM",
+    "target": "Reoboão",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Maachah, filha de Abishalom, é casada com Reoboão, rei de Judá.",
+    "source_topic": "abishalom"
+  },
+  {
+    "source": "ABISHALOM",
+    "target": "Abias",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abias é filho de Reoboão e Maachah, continuando a linhagem real.",
+    "source_topic": "abishalom"
+  },
+  {
+    "source": "ABISHUA",
+    "target": "Phinehas",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Abishua é filho de Phinehas, o sacerdote.",
+    "source_topic": "abishua"
+  },
+  {
+    "source": "ABISHUA",
+    "target": "Eli",
+    "target_type": "PERSON",
+    "type": "GRANDCHILD_OF",
+    "description": "Abishua é neto de Eli, que foi um importante sacerdote em Israel.",
+    "source_topic": "abishua"
+  },
+  {
+    "source": "ABITAL",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Abital é uma das esposas de Davi, contribuindo para a complexidade de sua família.",
+    "source_topic": "abital"
+  },
+  {
+    "source": "ABIUD",
+    "target": "Zorobabel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abiud é filho de Zorobabel, conforme a genealogia de Jesus.",
+    "source_topic": "abiud"
+  },
+  {
+    "source": "ABIUD",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "DESCENDANT_OF",
+    "description": "Abiud é um dos antepassados de Jesus Cristo na linhagem messiânica.",
+    "source_topic": "abiud"
+  },
+  {
+    "source": "ABLUTION",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou a implementação das práticas de abluição no culto israelita.",
+    "source_topic": "ablution"
+  },
+  {
+    "source": "ABLUTION",
+    "target": "Fariseus",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Os fariseus eram críticos da verdadeira pureza, exemplificando a hipocrisia religiosa.",
+    "source_topic": "ablution"
+  },
+  {
+    "source": "ABLUTION",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "WORSHIPPED_AT",
+    "description": "A abluição era uma prática necessária para se aproximar de Deus no culto.",
+    "source_topic": "ablution"
+  },
+  {
+    "source": "ABNER",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "UNCLE_OF",
+    "description": "Abner é tio de Saul, o primeiro rei de Israel.",
+    "source_topic": "abner"
+  },
+  {
+    "source": "ABNER",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Abner se torna aliado de David após a morte de Saul.",
+    "source_topic": "abner"
+  },
+  {
+    "source": "ABNER",
+    "target": "Ish-bosheth",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ish-bosheth é filho de Saul e apoiado por Abner como rei.",
+    "source_topic": "abner"
+  },
+  {
+    "source": "ABNER",
+    "target": "Joab",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Joab, comandante do exército de David, é responsável pela morte de Abner.",
+    "source_topic": "abner"
+  },
+  {
+    "source": "Abomination Of Desolation",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "RESULTED_IN",
+    "description": "A Abominação da Desolação resultou na destruição de Jerusalém.",
+    "source_topic": "abomination-of-desolation"
+  },
+  {
+    "source": "Abomination Of Desolation",
+    "target": "Daniel",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "A Abominação da Desolação foi profetizada por Daniel.",
+    "source_topic": "abomination-of-desolation"
+  },
+  {
+    "source": "Abomination Of Desolation",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "FULFILLED_BY",
+    "description": "Jesus Cristo cumpriu a profecia da Abominação da Desolação ao alertar sobre a destruição de Jerusalém.",
+    "source_topic": "abomination-of-desolation"
+  },
+  {
+    "source": "ABOMINATION",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou os israelitas e recebeu instruções sobre o que era considerado abominável.",
+    "source_topic": "abomination"
+  },
+  {
+    "source": "ABOMINATION",
+    "target": "Egito",
+    "target_type": "PLACE",
+    "type": "OPPOSED_BY",
+    "description": "As práticas abomináveis dos egípcios eram opostas aos mandamentos de Deus dados a Israel.",
+    "source_topic": "abomination"
+  },
+  {
+    "source": "ABOMINATION",
+    "target": "Daniel",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Daniel viveu em um tempo em que a abominação era uma questão central nas profecias sobre Israel.",
+    "source_topic": "abomination"
+  },
+  {
+    "source": "ABRAHAM",
+    "target": "Terá",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Terá é o pai de Abraão.",
+    "source_topic": "abraham"
+  },
+  {
+    "source": "ABRAHAM",
+    "target": "Sara",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Sara é a esposa de Abraão.",
+    "source_topic": "abraham"
+  },
+  {
+    "source": "ABRAHAM",
+    "target": "Isaque",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Abraão é o pai de Isaque.",
+    "source_topic": "abraham"
+  },
+  {
+    "source": "ABRAHAM",
+    "target": "Canaã",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Canaã é a terra prometida a Abraão.",
+    "source_topic": "abraham"
+  },
+  {
+    "source": "Abram",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "Deus se manifesta a Abrão através da aliança e promessas.",
+    "source_topic": "abram"
+  },
+  {
+    "source": "ABSALOM",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Absalom é filho de Davi.",
+    "source_topic": "absalom"
+  },
+  {
+    "source": "ABSALOM",
+    "target": "Tamar",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Tamar é irmã de Absalom.",
+    "source_topic": "absalom"
+  },
+  {
+    "source": "ABSALOM",
+    "target": "Amnon",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Amnon é meio-irmão de Absalom, cuja morte foi causada por ele.",
+    "source_topic": "absalom"
+  },
+  {
+    "source": "ABSALOM",
+    "target": "Joabe",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Joabe ajudou a trazer Absalom de volta a Jerusalém.",
+    "source_topic": "absalom"
+  },
+  {
+    "source": "Absaloms Pillar, Or Place",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Absalom é filho de Davi, e sua rebelião representa um conflito familiar profundo.",
+    "source_topic": "absaloms-pillar-or-place"
+  },
+  {
+    "source": "Absaloms Pillar, Or Place",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "NEAR",
+    "description": "Absalom's Pillar está localizado próximo a Jerusalém, que é o centro da narrativa de sua rebelião.",
+    "source_topic": "absaloms-pillar-or-place"
+  },
+  {
+    "source": "ABSTINENCE, TOTAL",
+    "target": "Nazireus",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Os nazireus exemplificam a prática de abstinência como um voto de consagração a Deus.",
+    "source_topic": "abstinence-total"
+  },
+  {
+    "source": "ABSTINENCE, TOTAL",
+    "target": "Recabitas",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Os recabitas são um exemplo de fidelidade à abstinência e à tradição familiar.",
+    "source_topic": "abstinence-total"
+  },
+  {
+    "source": "ABSTINENCE, TOTAL",
+    "target": "João Batista",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "João Batista exemplifica a vida de abstinência e consagração desde o nascimento.",
+    "source_topic": "abstinence-total"
+  },
+  {
+    "source": "ACCESS TO GOD",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "Jesus é a manifestação de Deus que permite o acesso ao Pai.",
+    "source_topic": "access-to-god"
+  },
+  {
+    "source": "ACCESS TO GOD",
+    "target": "Espírito Santo",
+    "target_type": "DEITY",
+    "type": "ASPECT_OF",
+    "description": "O Espírito Santo é o aspecto de Deus que intercede e guia os crentes em seu acesso a Deus.",
+    "source_topic": "access-to-god"
+  },
+  {
+    "source": "ACCHO",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Accho foi um dos locais visitados por Paulo durante sua missão, refletindo a interconexão das comunidades cristãs.",
+    "source_topic": "accho"
+  },
+  {
+    "source": "ACCHO",
+    "target": "Ptolemeu",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Ptolemeu foi o rei que reconstruiu Accho, influenciando sua importância histórica.",
+    "source_topic": "accho"
+  },
+  {
+    "source": "ACCURSED",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou Israel na conquista de Jericó, que foi amaldiçoada.",
+    "source_topic": "accursed"
+  },
+  {
+    "source": "ACCURSED",
+    "target": "Acã",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Acã trouxe maldição sobre Israel ao desobedecer a Deus.",
+    "source_topic": "accursed"
+  },
+  {
+    "source": "ACCURSED",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "Isaías profetizou sobre as consequências das maldições e a restauração futura.",
+    "source_topic": "accursed"
+  },
+  {
+    "source": "ACCUSATION, FALSE",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jesus exemplifica a resposta correta a falsas acusações e injustiças.",
+    "source_topic": "accusation-false"
+  },
+  {
+    "source": "ACCUSATION, FALSE",
+    "target": "Neemias",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Neemias viveu em um contexto onde enfrentou conspirações e falsas acusações, similar ao que Jesus enfrentou.",
+    "source_topic": "accusation-false"
+  },
+  {
+    "source": "Accuser",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jesus exemplifica a defesa contra as acusações de Satanás.",
+    "source_topic": "accuser"
+  },
+  {
+    "source": "Accuser",
+    "target": "Jó",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Jó viveu na mesma época em que as acusações de Satanás eram evidentes em sua vida.",
+    "source_topic": "accuser"
+  },
+  {
+    "source": "Accuser",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Josué é um membro do sacerdócio que foi acusado por Satanás.",
+    "source_topic": "accuser"
+  },
+  {
+    "source": "ACELDAMA",
+    "target": "Judas Iscariotes",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Judas Iscariotes é o comprador de Aceldama, simbolizando a traição que levou à sua morte.",
+    "source_topic": "aceldama"
+  },
+  {
+    "source": "ACHAIA",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Paulo liderou e fundou a igreja em Achaia, especialmente em Corinto.",
+    "source_topic": "achaia"
+  },
+  {
+    "source": "ACHAN",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué era o líder de Israel durante o tempo de Achan e responsável por conduzir o povo na conquista de Canaã.",
+    "source_topic": "achan"
+  },
+  {
+    "source": "ACHAN",
+    "target": "Vale de Acor",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "O Vale de Acor é o local onde Achan foi executado, simbolizando as consequências de seu pecado.",
+    "source_topic": "achan"
+  },
+  {
+    "source": "ACHAN",
+    "target": "Israel",
+    "target_type": "CONCEPT",
+    "type": "MEMBER_OF",
+    "description": "Achan era membro da comunidade israelita, e seu pecado teve repercussões para todo o povo.",
+    "source_topic": "achan"
+  },
+  {
+    "source": "Achaz = Ahaz",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "ANCESTOR_OF",
+    "description": "Achaz é um ancestral de Jesus Cristo, conforme a genealogia apresentada em Mateus.",
+    "source_topic": "achaz-ahaz"
+  },
+  {
+    "source": "ACHAZ",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Isaías foi contemporâneo de Achaz e atuou como seu profeta.",
+    "source_topic": "achaz"
+  },
+  {
+    "source": "ACHAZ",
+    "target": "Judá",
+    "target_type": "PLACE",
+    "type": "RULED_BY",
+    "description": "Achaz foi o rei que governou Judá durante um período de apostasia.",
+    "source_topic": "achaz"
+  },
+  {
+    "source": "ACHAZ",
+    "target": "Assíria",
+    "target_type": "PLACE",
+    "type": "ALLY_OF",
+    "description": "Achaz formou uma aliança com a Assíria em busca de proteção contra inimigos.",
+    "source_topic": "achaz"
+  },
+  {
+    "source": "ACHBOR",
+    "target": "Josias",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Achbor era um oficial no reino de Josias, indicando sua posição de influência na corte.",
+    "source_topic": "achbor"
+  },
+  {
+    "source": "ACHBOR",
+    "target": "Hulda",
+    "target_type": "PERSON",
+    "type": "DISCIPLE_OF",
+    "description": "Achbor consultou Hulda, mostrando a relação entre líderes e profetas na busca por sabedoria.",
+    "source_topic": "achbor"
+  },
+  {
+    "source": "ACHBOR",
+    "target": "Elnathan",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Achbor é pai de Elnathan, ligando sua linhagem à história profética de Israel.",
+    "source_topic": "achbor"
+  },
+  {
+    "source": "ACHIM",
+    "target": "Sadoc",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Achim é filho de Sadoc",
+    "source_topic": "achim"
+  },
+  {
+    "source": "ACHIM",
+    "target": "Eliud",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Achim é pai de Eliud",
+    "source_topic": "achim"
+  },
+  {
+    "source": "ACHIM",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "ANCESTOR_OF",
+    "description": "Achim é ancestral de Jesus",
+    "source_topic": "achim"
+  },
+  {
+    "source": "ACHISH",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Achish se tornou um aliado temporário de David durante sua fuga de Saul.",
+    "source_topic": "achish"
+  },
+  {
+    "source": "ACHISH",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Achish estava em uma posição oposta a Saul, que perseguia David.",
+    "source_topic": "achish"
+  },
+  {
+    "source": "ACHISH",
+    "target": "Ziklag",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Ziklag foi a cidade concedida a David por Achish, onde ele se estabeleceu.",
+    "source_topic": "achish"
+  },
+  {
+    "source": "ACHMETHA",
+    "target": "Ciro",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Ciro era o líder persa que governava a partir de Achmetha e emitiu o decreto para a reconstrução do templo em Jerusalém.",
+    "source_topic": "achmetha"
+  },
+  {
+    "source": "ACHMETHA",
+    "target": "Cambises",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Cambises foi o sucessor de Ciro e também governou a partir de Achmetha.",
+    "source_topic": "achmetha"
+  },
+  {
+    "source": "Achor, Valley Of",
+    "target": "Achan",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Achan é o protagonista do evento que ocorre no Vale de Acor, onde ele é apedrejado por seu pecado.",
+    "source_topic": "achor-valley-of"
+  },
+  {
+    "source": "Achor, Valley Of",
+    "target": "Vale de Acor",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "O Vale de Acor está localizado na região de Judá, conforme mencionado em Josué 15:7.",
+    "source_topic": "achor-valley-of"
+  },
+  {
+    "source": "ACHOR",
+    "target": "Acan",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Acan é visto como um inimigo do povo de Israel devido ao seu pecado que trouxe calamidade ao povo.",
+    "source_topic": "achor"
+  },
+  {
+    "source": "ACHOR",
+    "target": "Vale de Acor",
+    "target_type": "PLACE",
+    "type": "PART_OF",
+    "description": "O Vale de Acor é parte da narrativa da conquista de Jericó e das consequências do pecado de Acan.",
+    "source_topic": "achor"
+  },
+  {
+    "source": "Achsa",
+    "target": "Calebe",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Achsa é filha de Calebe, um dos líderes da conquista da terra prometida.",
+    "source_topic": "achsa"
+  },
+  {
+    "source": "Achsa",
+    "target": "Otniel",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Achsa é esposa de Otniel, que se tornou o primeiro juiz de Israel.",
+    "source_topic": "achsa"
+  },
+  {
+    "source": "ACHSAH",
+    "target": "Caleb",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Caleb é o pai de Achsah.",
+    "source_topic": "achsah"
+  },
+  {
+    "source": "ACHSAH",
+    "target": "Othniel",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Othniel é o marido de Achsah.",
+    "source_topic": "achsah"
+  },
+  {
+    "source": "ACHSAH",
+    "target": "Debir",
+    "target_type": "PLACE",
+    "type": "PART_OF",
+    "description": "Debir é a cidade conquistada por Othniel, que resultou no casamento com Achsah.",
+    "source_topic": "achsah"
+  },
+  {
+    "source": "ACHSHAPH",
+    "target": "Asher",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Achshaph é uma cidade que faz parte do território da tribo de Asher.",
+    "source_topic": "achshaph"
+  },
+  {
+    "source": "ACHZIB",
+    "target": "Asher",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Achzib foi atribuída à tribo de Asher, refletindo a distribuição territorial das tribos de Israel.",
+    "source_topic": "achzib"
+  },
+  {
+    "source": "Acts of the Apostles",
+    "target": "Pedro",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Pedro é um dos principais líderes da Igreja primitiva, conforme descrito em Atos.",
+    "source_topic": "acts-of-the-apostles"
+  },
+  {
+    "source": "Acts of the Apostles",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Paulo e Pedro viveram e atuaram na mesma época, ambos contribuindo para a expansão do cristianismo.",
+    "source_topic": "acts-of-the-apostles"
+  },
+  {
+    "source": "Acts of the Apostles",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "CAPITAL_OF",
+    "description": "Jerusalém é a capital espiritual da Igreja primitiva, onde tudo começou.",
+    "source_topic": "acts-of-the-apostles"
+  },
+  {
+    "source": "Acts of the Apostles",
+    "target": "Roma",
+    "target_type": "PLACE",
+    "type": "NEAR",
+    "description": "Roma é o destino final de Paulo, onde ele testemunhou e escreveu sobre a Igreja.",
+    "source_topic": "acts-of-the-apostles"
+  },
+  {
+    "source": "ADAH",
+    "target": "Lamech",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Adah é a esposa de Lamech, com quem teve filhos.",
+    "source_topic": "adah"
+  },
+  {
+    "source": "ADAH",
+    "target": "Esaú",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Adah é uma das esposas de Esaú, unindo-se à linhagem edomita.",
+    "source_topic": "adah"
+  },
+  {
+    "source": "ADAH",
+    "target": "Elon",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Elon é o pai de Adah, representando a conexão com os hititas.",
+    "source_topic": "adah"
+  },
+  {
+    "source": "Adam, a type",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "TYPIFIES",
+    "description": "Adam tipifica Jesus Cristo como o segundo Adão que traz redenção à humanidade.",
+    "source_topic": "adam-a-type"
+  },
+  {
+    "source": "Adam, the city of",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou os israelitas na travessia do Jordão, onde a cidade de Adam é mencionada.",
+    "source_topic": "adam-the-city-of"
+  },
+  {
+    "source": "Adam, the city of",
+    "target": "Zarethan",
+    "target_type": "PLACE",
+    "type": "NEAR",
+    "description": "Adam está localizado próximo a Zarethan, conforme mencionado em 1 Reis 4:12.",
+    "source_topic": "adam-the-city-of"
+  },
+  {
+    "source": "ADAM",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "CREATED_BY",
+    "description": "Adão foi criado por Deus, estabelecendo a relação entre o Criador e a criação.",
+    "source_topic": "adam"
+  },
+  {
+    "source": "ADAMAH",
+    "target": "Naftali",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Adamah é uma cidade que faz parte da herança da tribo de Naftali.",
+    "source_topic": "adamah"
+  },
+  {
+    "source": "ADBEEL",
+    "target": "Ismael",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Adbeel é filho de Ismael, o que o conecta à linhagem que se tornaria fundamental para a história dos povos árabes.",
+    "source_topic": "adbeel"
+  },
+  {
+    "source": "Addar",
+    "target": "Bela",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Addar é filho de Bela.",
+    "source_topic": "addar"
+  },
+  {
+    "source": "Addar",
+    "target": "Benjamim",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Bela, pai de Addar, é filho de Benjamim.",
+    "source_topic": "addar"
+  },
+  {
+    "source": "ADIN",
+    "target": "Zorobabel",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Adin era membro do grupo que retornou do exílio sob a liderança de Zorobabel.",
+    "source_topic": "adin"
+  },
+  {
+    "source": "ADIN",
+    "target": "Neemias",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Adin se uniu a Neemias em um pacto para se separar dos povos pagãos.",
+    "source_topic": "adin"
+  },
+  {
+    "source": "ADINO",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Adino é um membro do grupo dos valentes guerreiros que serviram a Davi.",
+    "source_topic": "adino"
+  },
+  {
+    "source": "ADJUDICATION AT LAW",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "TEACHES",
+    "description": "Jesus ensina sobre a importância da resolução de conflitos e da justiça nas relações humanas.",
+    "source_topic": "adjudication-at-law"
+  },
+  {
+    "source": "ADJUDICATION AT LAW",
+    "target": "Salmos",
+    "target_type": "LITERARY_WORK",
+    "type": "CONTAINS",
+    "description": "Os Salmos contêm reflexões sobre a justiça de Deus e a necessidade de equidade.",
+    "source_topic": "adjudication-at-law"
+  },
+  {
+    "source": "ADJUDICATION AT LAW",
+    "target": "Provérbios",
+    "target_type": "LITERARY_WORK",
+    "type": "CONTAINS",
+    "description": "Provérbios oferece sabedoria sobre como lidar com disputas e agir com prudência.",
+    "source_topic": "adjudication-at-law"
+  },
+  {
+    "source": "Adjuration",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Saul era o líder de Israel que impôs um juramento ao seu exército.",
+    "source_topic": "adjuration"
+  },
+  {
+    "source": "Adjuration",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou Israel e proferiu uma maldição após a conquista de Jericó.",
+    "source_topic": "adjuration"
+  },
+  {
+    "source": "Adjuration",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "OPPOSED_BY",
+    "description": "Jesus foi oposto pelo sumo sacerdote que o adjurou a declarar sua identidade.",
+    "source_topic": "adjuration"
+  },
+  {
+    "source": "Adjuration",
+    "target": "Demônio",
+    "target_type": "ANGEL",
+    "type": "OPPOSED_BY",
+    "description": "Os demônios se opuseram a Jesus, invocando o nome de Deus em um contexto de adjuração.",
+    "source_topic": "adjuration"
+  },
+  {
+    "source": "ADMAH",
+    "target": "Sodoma",
+    "target_type": "PLACE",
+    "type": "RELATED_TO",
+    "description": "Admah é frequentemente mencionada em conjunto com Sodoma, destacando a destruição de ambas como um juízo divino.",
+    "source_topic": "admah"
+  },
+  {
+    "source": "ADMAH",
+    "target": "Gomorra",
+    "target_type": "PLACE",
+    "type": "RELATED_TO",
+    "description": "Admah é associada a Gomorra, enfatizando a temática do juízo sobre cidades ímpias.",
+    "source_topic": "admah"
+  },
+  {
+    "source": "ADMAH",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Josué é contemporâneo ao período em que Admah é mencionada, especialmente em relação à sua localização geográfica.",
+    "source_topic": "admah"
+  },
+  {
+    "source": "ADMONITION",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Paulo liderou a igreja e frequentemente exortou os crentes à admoestação.",
+    "source_topic": "admonition"
+  },
+  {
+    "source": "ADMONITION",
+    "target": "Ezequiel",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "Ezequiel foi um profeta que admoestou o povo de Israel sobre suas transgressões.",
+    "source_topic": "admonition"
+  },
+  {
+    "source": "ADMONITION",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "A admoestação é uma manifestação do amor e da disciplina de Deus.",
+    "source_topic": "admonition"
+  },
+  {
+    "source": "ADNAH",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Adnah se uniu a Davi em Ziklag, formando uma aliança crucial para a liderança de Israel.",
+    "source_topic": "adnah"
+  },
+  {
+    "source": "ADNAH",
+    "target": "Jeosafá",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Adnah serviu como general sob Jeosafá, liderando um exército significativo durante seu reinado.",
+    "source_topic": "adnah"
+  },
+  {
+    "source": "Adoni-zedec",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Adoni-zedec foi inimigo de Josué e dos israelitas durante a conquista de Canaã.",
+    "source_topic": "adoni-zedec"
+  },
+  {
+    "source": "Adoni-zedec",
+    "target": "Gibeonitas",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Adoni-zedec cercou os gibeonitas antes de ser derrotado por Josué.",
+    "source_topic": "adoni-zedec"
+  },
+  {
+    "source": "Adoni-zedec",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "CAPITAL_OF",
+    "description": "Jerusalém era a capital sob o domínio de Adoni-zedec.",
+    "source_topic": "adoni-zedec"
+  },
+  {
+    "source": "ADONI-ZEDEK",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Adoni-Zedeque se opôs a Josué e ao povo de Israel durante a conquista de Canaã.",
+    "source_topic": "adoni-zedek"
+  },
+  {
+    "source": "ADONI-ZEDEK",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "CAPITAL_OF",
+    "description": "Jerusalém era a capital sob o governo de Adoni-Zedeque.",
+    "source_topic": "adoni-zedek"
+  },
+  {
+    "source": "ADONI-ZEDEK",
+    "target": "Israel",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Adoni-Zedeque e os reis cananeus se uniram contra Israel.",
+    "source_topic": "adoni-zedek"
+  },
+  {
+    "source": "Adonibezek",
+    "target": "Judá",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Adonibezek foi derrotado pelas tribos de Judá.",
+    "source_topic": "adonibezek"
+  },
+  {
+    "source": "Adonibezek",
+    "target": "Simeão",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Adonibezek foi derrotado pelas tribos de Simeão.",
+    "source_topic": "adonibezek"
+  },
+  {
+    "source": "ADONIJAH",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Adonijah é irmão de Salomão, com quem competiu pelo trono.",
+    "source_topic": "adonijah"
+  },
+  {
+    "source": "ADONIJAH",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Adonijah é filho de Davi, o rei de Israel.",
+    "source_topic": "adonijah"
+  },
+  {
+    "source": "ADONIJAH",
+    "target": "Natã",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Natã interveio em favor de Salomão contra Adonijah.",
+    "source_topic": "adonijah"
+  },
+  {
+    "source": "ADONIJAH",
+    "target": "Bate-Seba",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Bate-Seba apoiou a coroação de Salomão e se opôs a Adonijah.",
+    "source_topic": "adonijah"
+  },
+  {
+    "source": "Adonikam, Or Adonikam",
+    "target": "Zerubbabel",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Zerubbabel liderou o retorno dos exilados, incluindo os filhos de Adonikam.",
+    "source_topic": "adonikam-or-adonikam"
+  },
+  {
+    "source": "ADONIKAM",
+    "target": "Zorobabel",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Adonikam é mencionado como um dos que retornaram com Zorobabel do exílio babilônico.",
+    "source_topic": "adonikam"
+  },
+  {
+    "source": "ADONIRAM",
+    "target": "Reoboão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Reoboão era o rei que enviou Adoniram para coletar tributos, representando a liderança de Judá.",
+    "source_topic": "adoniram"
+  },
+  {
+    "source": "Adonizedek",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Adonizedek foi um inimigo de Josué, liderando uma confederação contra Israel.",
+    "source_topic": "adonizedek"
+  },
+  {
+    "source": "Adonizedek",
+    "target": "Gibeon",
+    "target_type": "PLACE",
+    "type": "ENEMY_OF",
+    "description": "Adonizedek atacou Gibeon, que era aliada de Israel.",
+    "source_topic": "adonizedek"
+  },
+  {
+    "source": "Adonizedek",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Adonizedek era o rei de Jerusalém durante a conquista de Israel.",
+    "source_topic": "adonizedek"
+  },
+  {
+    "source": "ADOPTION",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Moisés é um exemplo de adoção natural, sendo adotado pela filha de Faraó.",
+    "source_topic": "adoption"
+  },
+  {
+    "source": "ADOPTION",
+    "target": "Esther",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Esther é um exemplo de adoção natural, sendo criada por Mordecai.",
+    "source_topic": "adoption"
+  },
+  {
+    "source": "ADOPTION",
+    "target": "Israel",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Israel é considerado o filho adotivo de Deus, representando a adoção nacional.",
+    "source_topic": "adoption"
+  },
+  {
+    "source": "ADORAIM",
+    "target": "Roboão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Roboão foi o rei que construiu Adoraim como parte de sua estratégia de defesa do reino de Judá.",
+    "source_topic": "adoraim"
+  },
+  {
+    "source": "Adoration",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jesus é o exemplo supremo de adoração e reverência a Deus, sendo o objeto de adoração na nova aliança.",
+    "source_topic": "adoration"
+  },
+  {
+    "source": "Adoration",
+    "target": "Abraão",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Abraão é um membro da linhagem de fé que exemplifica a adoração a Deus através de sua vida e ações.",
+    "source_topic": "adoration"
+  },
+  {
+    "source": "Adore",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés lidera o povo de Israel em adoração a Deus.",
+    "source_topic": "adore"
+  },
+  {
+    "source": "Adore",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué é o líder que também se prostra em adoração diante de Deus.",
+    "source_topic": "adore"
+  },
+  {
+    "source": "Adore",
+    "target": "Nabucodonosor",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Nabucodonosor representa a oposição à adoração verdadeira, exigindo adoração a ídolos.",
+    "source_topic": "adore"
+  },
+  {
+    "source": "ADRAMYTTIUM",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Paulo embarcou em um navio de Adramyttium durante sua viagem a Roma.",
+    "source_topic": "adramyttium"
+  },
+  {
+    "source": "ADRIA",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Paulo participou de uma viagem pelo Mar Adriático durante sua missão.",
+    "source_topic": "adria"
+  },
+  {
+    "source": "ADRIEL",
+    "target": "Merab",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Adriel é o esposo de Merab, filha de Saul.",
+    "source_topic": "adriel"
+  },
+  {
+    "source": "ADRIEL",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "FATHER_OF",
+    "description": "Saul é o pai de Merab, que se casou com Adriel.",
+    "source_topic": "adriel"
+  },
+  {
+    "source": "ADRIEL",
+    "target": "Gibeonitas",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Os gibeonitas executaram os filhos de Adriel como parte de uma punição.",
+    "source_topic": "adriel"
+  },
+  {
+    "source": "ADULLAM",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Davi liderou os homens que se reuniram em Adullam durante sua fuga.",
+    "source_topic": "adullam"
+  },
+  {
+    "source": "ADULLAM",
+    "target": "Reoboão",
+    "target_type": "PERSON",
+    "type": "FORTIFIED_BY",
+    "description": "Adullam foi fortificada por Reoboão como parte de sua defesa contra o Egito.",
+    "source_topic": "adullam"
+  },
+  {
+    "source": "ADULLAM",
+    "target": "Miquéias",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "Miquéias menciona Adullam como 'a glória de Israel', destacando sua importância na história de Israel.",
+    "source_topic": "adullam"
+  },
+  {
+    "source": "Adullamite",
+    "target": "Judá",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Judá é um dos filhos de Jacó e membro da tribo de Judá, que está associado à cidade de Adullam.",
+    "source_topic": "adullamite"
+  },
+  {
+    "source": "Adullamite",
+    "target": "Tamar",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Tamar é a nora de Judá, cuja história está interligada com os Adullamites.",
+    "source_topic": "adullamite"
+  },
+  {
+    "source": "ADULTERY",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "OPPOSED_BY",
+    "description": "O adultério é oposto à fidelidade que Deus espera de Seu povo.",
+    "source_topic": "adultery"
+  },
+  {
+    "source": "ADULTERY",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "FULFILLS",
+    "description": "Jesus cumpre a necessidade de perdão para aqueles que cometem adultério, oferecendo graça e redenção.",
+    "source_topic": "adultery"
+  },
+  {
+    "source": "ADULTERY",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou a implementação das leis que regulavam o adultério na sociedade israelita.",
+    "source_topic": "adultery"
+  },
+  {
+    "source": "ADUMMIM",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "NEAR",
+    "description": "Adummim está localizado próximo a Jerusalém, servindo como um ponto de passagem entre a cidade e Jericó.",
+    "source_topic": "adummim"
+  },
+  {
+    "source": "ADUMMIM",
+    "target": "Jericó",
+    "target_type": "PLACE",
+    "type": "NEAR",
+    "description": "Adummim está situado entre Jerusalém e Jericó, destacando sua importância na rota de viagem.",
+    "source_topic": "adummim"
+  },
+  {
+    "source": "Adversary",
+    "target": "Satanás",
+    "target_type": "ANGEL",
+    "type": "OPPOSED_BY",
+    "description": "Deus é o oposto de Satanás, que se opõe aos Seus propósitos e ao bem-estar da humanidade.",
+    "source_topic": "adversary"
+  },
+  {
+    "source": "ADVOCATE",
+    "target": "Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Cristo exemplifica o papel de Advogado ao interceder pelos pecadores.",
+    "source_topic": "advocate"
+  },
+  {
+    "source": "ADVOCATE",
+    "target": "Espírito Santo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "O Espírito Santo exemplifica o papel de Consolador e Advogado na vida dos crentes.",
+    "source_topic": "advocate"
+  },
+  {
+    "source": "ADVOCATE",
+    "target": "Tertullus",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Tertullus foi contemporâneo de Paulo, atuando como advogado em um contexto legal.",
+    "source_topic": "advocate"
+  },
+  {
+    "source": "Aegypt",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés liderou os israelitas na saída do Egito.",
+    "source_topic": "aegypt"
+  },
+  {
+    "source": "AENEAS",
+    "target": "Pedro",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Pedro é um dos líderes da Igreja primitiva que realiza a cura de Aeneas.",
+    "source_topic": "aeneas"
+  },
+  {
+    "source": "AENEAS",
+    "target": "Lydda",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "A cura de Aeneas ocorre na cidade de Lydda, um local significativo para a propagação do evangelho.",
+    "source_topic": "aeneas"
+  },
+  {
+    "source": "AENON",
+    "target": "João Batista",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "João Batista liderava o movimento de arrependimento e batismo em Aenon.",
+    "source_topic": "aenon"
+  },
+  {
+    "source": "Affinity",
+    "target": "Acabe",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Josafá se aliou a Acabe através do casamento, formando uma relação política.",
+    "source_topic": "affinity"
+  },
+  {
+    "source": "Affinity",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Salomão casou-se com a filha de Faraó, estabelecendo uma aliança entre Israel e o Egito.",
+    "source_topic": "affinity"
+  },
+  {
+    "source": "AFFLICTED, DUTY TOWARD THE",
+    "target": "Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Cristo exemplifica o cuidado e a compaixão pelos aflitos.",
+    "source_topic": "afflicted-duty-toward-the"
+  },
+  {
+    "source": "AFFLICTED, DUTY TOWARD THE",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "O cuidado pelos aflitos é uma manifestação do caráter de Deus.",
+    "source_topic": "afflicted-duty-toward-the"
+  },
+  {
+    "source": "AFFLICTED",
+    "target": "Jó",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Jó viveu em um contexto de grande aflição e é um exemplo de perseverança.",
+    "source_topic": "afflicted"
+  },
+  {
+    "source": "AFFLICTED",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "Isaías profetizou sobre a compaixão e a ajuda aos aflitos.",
+    "source_topic": "afflicted"
+  },
+  {
+    "source": "AFFLICTED",
+    "target": "Mateus",
+    "target_type": "PERSON",
+    "type": "AUTHOR_OF",
+    "description": "Mateus escreveu sobre a importância de ajudar os aflitos em seu evangelho.",
+    "source_topic": "afflicted"
+  },
+  {
+    "source": "AFFLICTIONS AND ADVERSITIES",
+    "target": "Jó",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jó exemplifica o sofrimento e a perseverança em meio às adversidades.",
+    "source_topic": "afflictions-and-adversities"
+  },
+  {
+    "source": "AFFLICTIONS AND ADVERSITIES",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Davi exemplifica o abandono por amigos e a busca de consolo em Deus durante suas aflições.",
+    "source_topic": "afflictions-and-adversities"
+  },
+  {
+    "source": "AFFLICTIONS AND ADVERSITIES",
+    "target": "Israel",
+    "target_type": "PLACE",
+    "type": "PARTICIPANT_IN",
+    "description": "Israel participou de várias aflições como parte de sua jornada de fé e relacionamento com Deus.",
+    "source_topic": "afflictions-and-adversities"
+  },
+  {
+    "source": "AFFLICTIONS OF THE WICKED, THE",
+    "target": "Jó",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jó exemplifica a experiência de um justo que sofre aflições, servindo como um modelo de fé em meio ao sofrimento.",
+    "source_topic": "afflictions-of-the-wicked-the"
+  },
+  {
+    "source": "AFFLICTIONS",
+    "target": "Job",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Job exemplifica a paciência e a fé em meio às aflições.",
+    "source_topic": "afflictions"
+  },
+  {
+    "source": "AFFLICTIONS",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Paulo exemplifica a perseverança nas aflições em suas cartas.",
+    "source_topic": "afflictions"
+  },
+  {
+    "source": "AFFLICTIONS",
+    "target": "Tiago",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Tiago ensina sobre a importância da paciência nas aflições.",
+    "source_topic": "afflictions"
+  },
+  {
+    "source": "AFFLICTIONS",
+    "target": "Pedro",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Pedro fala sobre o propósito das aflições e a glória que elas trazem.",
+    "source_topic": "afflictions"
+  },
+  {
+    "source": "AGABUS",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Agabus e Paulo viveram na mesma época e interagiram durante o ministério apostólico.",
+    "source_topic": "agabus"
+  },
+  {
+    "source": "AGAG",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Agag é um inimigo de Israel, representando a oposição que Saul deveria ter eliminado.",
+    "source_topic": "agag"
+  },
+  {
+    "source": "AGAG",
+    "target": "Samuel",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Samuel participou da execução de Agag como um ato de justiça divina.",
+    "source_topic": "agag"
+  },
+  {
+    "source": "AGAG",
+    "target": "Haman",
+    "target_type": "PERSON",
+    "type": "SUCCESSOR_OF",
+    "description": "Haman é considerado um sucessor de Agag, simbolizando a continuidade do conflito contra os judeus.",
+    "source_topic": "agag"
+  },
+  {
+    "source": "Agagite",
+    "target": "Haman",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Haman é um inimigo do povo judeu, representando a hostilidade contra Israel.",
+    "source_topic": "agagite"
+  },
+  {
+    "source": "Agagite",
+    "target": "Ester",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ester se torna uma aliada do povo judeu ao interceder por eles diante do rei.",
+    "source_topic": "agagite"
+  },
+  {
+    "source": "Agagite",
+    "target": "Assuero",
+    "target_type": "PERSON",
+    "type": "RULER_OF",
+    "description": "Assuero é o rei que governa durante a história de Ester e que confere poder a Haman.",
+    "source_topic": "agagite"
+  },
+  {
+    "source": "AGAR",
+    "target": "Ismael",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Hagar é mãe de Ismael.",
+    "source_topic": "agar"
+  },
+  {
+    "source": "AGAR",
+    "target": "Sara",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Hagar e Sara têm uma relação conflituosa devido à rivalidade entre suas posições.",
+    "source_topic": "agar"
+  },
+  {
+    "source": "AGAR",
+    "target": "Abraão",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Hagar é a serva de Sara, que deu a Hagar a Abraão como esposa para gerar filhos.",
+    "source_topic": "agar"
+  },
+  {
+    "source": "Age",
+    "target": "Jacó",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Jacó é pai de várias tribos de Israel, simbolizando a continuidade da linhagem e a importância da idade na formação do povo de Deus.",
+    "source_topic": "age"
+  },
+  {
+    "source": "Age",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Isaías e Jó viveram em épocas que refletiam a sabedoria e a experiência dos mais velhos em suas mensagens.",
+    "source_topic": "age"
+  },
+  {
+    "source": "Agee, Or Agee",
+    "target": "Shammah",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Agee é o pai de Shammah, um dos valentes guerreiros de Davi.",
+    "source_topic": "agee-or-agee"
+  },
+  {
+    "source": "Agee, Or Agee",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Shammah, filho de Agee, serviu sob a liderança de Davi como um de seus guerreiros mais valentes.",
+    "source_topic": "agee-or-agee"
+  },
+  {
+    "source": "AGEE",
+    "target": "Shammah",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Agee é o pai de Shammah, um dos valentes de Davi.",
+    "source_topic": "agee"
+  },
+  {
+    "source": "AGEE",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Agee faz parte do grupo de guerreiros que serviram a Davi.",
+    "source_topic": "agee"
+  },
+  {
+    "source": "AGENCY",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "Deus se manifesta através da agência humana na salvação e no juízo.",
+    "source_topic": "agency"
+  },
+  {
+    "source": "AGENCY",
+    "target": "Jó",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Jó viveu em um contexto onde a agência de Deus era evidente em sua vida.",
+    "source_topic": "agency"
+  },
+  {
+    "source": "AGENCY",
+    "target": "Samuel",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Samuel liderou o povo de Israel como um agente de Deus para executar juízos.",
+    "source_topic": "agency"
+  },
+  {
+    "source": "Agony",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "A agonia de Cristo exemplifica a luta espiritual que os crentes enfrentam.",
+    "source_topic": "agony"
+  },
+  {
+    "source": "Agony",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Paulo viveu na mesma época que os eventos da vida de Cristo e reflete sobre a luta na fé em suas cartas.",
+    "source_topic": "agony"
+  },
+  {
+    "source": "AGRICULTURE OR HUSBANDRY",
+    "target": "Adão",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Adão é considerado o pai da humanidade, representando a origem do trabalho agrícola.",
+    "source_topic": "agriculture-or-husbandry"
+  },
+  {
+    "source": "AGRICULTURE OR HUSBANDRY",
+    "target": "Eva",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Eva é a esposa de Adão, compartilhando a responsabilidade do cultivo da terra.",
+    "source_topic": "agriculture-or-husbandry"
+  },
+  {
+    "source": "AGRICULTURE OR HUSBANDRY",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "Deus é a fonte da providência e sustento na agricultura.",
+    "source_topic": "agriculture-or-husbandry"
+  },
+  {
+    "source": "AGRICULTURE",
+    "target": "Caim",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Caim é contemporâneo de Adão e representa a primeira geração de agricultores.",
+    "source_topic": "agriculture"
+  },
+  {
+    "source": "AGRICULTURE",
+    "target": "Noé",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Noé, como agricultor, representa a continuidade da prática agrícola após o Dilúvio.",
+    "source_topic": "agriculture"
+  },
+  {
+    "source": "AGRICULTURE",
+    "target": "Elisha",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Elisha, como profeta, exemplifica a interseção entre a agricultura e a vida espiritual.",
+    "source_topic": "agriculture"
+  },
+  {
+    "source": "AGRICULTURE",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Davi, como rei, promoveu a agricultura e a prosperidade em Israel.",
+    "source_topic": "agriculture"
+  },
+  {
+    "source": "AGRICULTURE",
+    "target": "Uzzias",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Uzzias é conhecido por suas inovações agrícolas durante seu reinado em Judá.",
+    "source_topic": "agriculture"
+  },
+  {
+    "source": "Agrippa I.",
+    "target": "Tiago",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Agrippa I executou Tiago, um dos apóstolos, como parte de sua perseguição aos cristãos.",
+    "source_topic": "agrippa-i"
+  },
+  {
+    "source": "Agrippa I.",
+    "target": "Pedro",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Agrippa I prendeu Pedro, buscando silenciar a liderança da Igreja primitiva.",
+    "source_topic": "agrippa-i"
+  },
+  {
+    "source": "Agrippa II.",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Agrippa II e Paulo viveram na mesma época, com Paulo defendendo sua fé diante de Agrippa.",
+    "source_topic": "agrippa-ii"
+  },
+  {
+    "source": "Agrippa II.",
+    "target": "Bernice",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Agrippa II era irmão de Bernice.",
+    "source_topic": "agrippa-ii"
+  },
+  {
+    "source": "Agrippa II.",
+    "target": "Drusila",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Agrippa II era irmão de Drusila.",
+    "source_topic": "agrippa-ii"
+  },
+  {
+    "source": "AGRIPPA",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Agripa e Paulo viveram na mesma época e tiveram interações significativas.",
+    "source_topic": "agrippa"
+  },
+  {
+    "source": "Ah!",
+    "target": "Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Cristo exemplifica o sofrimento e a rejeição, refletindo a dor expressa na exclamativa 'Ah!'.",
+    "source_topic": "ah"
+  },
+  {
+    "source": "Ah!",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Isaías e Jeremias viveram em épocas semelhantes, ambos clamando por arrependimento e justiça.",
+    "source_topic": "ah"
+  },
+  {
+    "source": "Ah!",
+    "target": "Jeremias",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Jeremias e Isaías compartilham a missão de chamar o povo ao arrependimento.",
+    "source_topic": "ah"
+  },
+  {
+    "source": "AHAB",
+    "target": "Jezabel",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Jezabel era a esposa de Ahab e teve uma influência significativa sobre sua liderança.",
+    "source_topic": "ahab"
+  },
+  {
+    "source": "AHAB",
+    "target": "Elias",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Elias foi um profeta que se opôs a Ahab devido à sua idolatria e desobediência a Deus.",
+    "source_topic": "ahab"
+  },
+  {
+    "source": "AHAB",
+    "target": "Ben-Hadade II",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Ben-Hadade II foi o rei da Síria que Ahab enfrentou em batalhas.",
+    "source_topic": "ahab"
+  },
+  {
+    "source": "AHASUERUS",
+    "target": "Ester",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Ahasuerus é o marido de Ester, que se torna rainha durante seu reinado.",
+    "source_topic": "ahasuerus"
+  },
+  {
+    "source": "AHASUERUS",
+    "target": "Dario",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Dario é o pai de Ahasuerus, conforme mencionado em Daniel.",
+    "source_topic": "ahasuerus"
+  },
+  {
+    "source": "AHAVA",
+    "target": "Esdras",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Esdras liderou os exilados judeus durante o retorno a Jerusalém a partir de Ahava.",
+    "source_topic": "ahava"
+  },
+  {
+    "source": "AHAVA",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "ROUTE_TO",
+    "description": "Ahava foi um ponto de partida para o retorno dos exilados a Jerusalém.",
+    "source_topic": "ahava"
+  },
+  {
+    "source": "AHAVA",
+    "target": "Babilônia",
+    "target_type": "PLACE",
+    "type": "EXILED_TO",
+    "description": "Os judeus foram exilados na Babilônia antes de se reunirem em Ahava para retornar a Jerusalém.",
+    "source_topic": "ahava"
+  },
+  {
+    "source": "AHAZ",
+    "target": "Jotão",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Acaz é filho de Jotão, rei anterior de Judá.",
+    "source_topic": "ahaz"
+  },
+  {
+    "source": "AHAZ",
+    "target": "Isaías",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Isaías foi um profeta contemporâneo de Acaz, que o advertiu sobre suas ações.",
+    "source_topic": "ahaz"
+  },
+  {
+    "source": "AHAZ",
+    "target": "Tiglate-Pileser",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Acaz formou uma aliança com Tiglate-Pileser, rei da Assíria, em busca de ajuda contra seus inimigos.",
+    "source_topic": "ahaz"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Acabe",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Acazias é filho de Acabe, seguindo seus passos na idolatria.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Jezabel",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Acazias é filho de Jezabel, que influenciou sua maldade.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Atalia",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Acazias é filho de Atalia, que teve um papel significativo em sua vida e reinado.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Jeosafá",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Acazias se aliou a Jeosafá em tentativas de reviver o comércio marítimo.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Hazael",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Acazias lutou contra Hazael, rei da Síria, em batalha.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHAZIAH",
+    "target": "Elias",
+    "target_type": "PERSON",
+    "type": "DISCIPLE_OF",
+    "description": "Elias advertiu Acazias sobre sua morte iminente.",
+    "source_topic": "ahaziah"
+  },
+  {
+    "source": "AHIA",
+    "target": "Jeroboão",
+    "target_type": "PERSON",
+    "type": "PROPHESIED_BY",
+    "description": "Ahia profetizou a divisão do reino para Jeroboão.",
+    "source_topic": "ahia"
+  },
+  {
+    "source": "AHIA",
+    "target": "Ahimeleque",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Ahia e Ahimeleque foram profetas que atuaram em períodos semelhantes na história de Israel.",
+    "source_topic": "ahia"
+  },
+  {
+    "source": "AHIAH",
+    "target": "Fineias",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Ahiah é neto de Fineias, ligando-o à linhagem sacerdotal.",
+    "source_topic": "ahiah"
+  },
+  {
+    "source": "AHIAH",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Ahiah serviu como escriba na corte de Salomão, contribuindo para a administração do reino.",
+    "source_topic": "ahiah"
+  },
+  {
+    "source": "AHIAM",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Ahiam é um dos valentes que serviram sob a liderança de Davi.",
+    "source_topic": "ahiam"
+  },
+  {
+    "source": "AHIAM",
+    "target": "Sharar",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Sharar é o pai de Ahiam, destacando a linhagem familiar.",
+    "source_topic": "ahiam"
+  },
+  {
+    "source": "AHIEZER",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahiezer se uniu a Davi como um de seus valentes, demonstrando lealdade e apoio em tempos de conflito.",
+    "source_topic": "ahiezer"
+  },
+  {
+    "source": "AHIJAH",
+    "target": "Jeroboam",
+    "target_type": "PERSON",
+    "type": "PROPHECY_ABOUT",
+    "description": "Ahijah profetizou sobre a casa de Jeroboam e seu juízo.",
+    "source_topic": "ahijah"
+  },
+  {
+    "source": "AHIJAH",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Ahijah viveu durante o reinado de Salomão e profetizou a divisão do reino.",
+    "source_topic": "ahijah"
+  },
+  {
+    "source": "AHIJAH",
+    "target": "Ahimelech",
+    "target_type": "PERSON",
+    "type": "SIBLING",
+    "description": "Ahijah é possivelmente irmão de Ahimelech, ambos sacerdotes.",
+    "source_topic": "ahijah"
+  },
+  {
+    "source": "AHIKAM",
+    "target": "Shaphan",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahikam é filho de Shaphan, que era um secretário real influente.",
+    "source_topic": "ahikam"
+  },
+  {
+    "source": "AHIKAM",
+    "target": "Gedaliah",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahikam é pai de Gedaliah, que se tornou governador de Judá após a destruição de Jerusalém.",
+    "source_topic": "ahikam"
+  },
+  {
+    "source": "AHIKAM",
+    "target": "Josias",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahikam foi um aliado de Josias, ajudando na restauração religiosa de Judá.",
+    "source_topic": "ahikam"
+  },
+  {
+    "source": "AHIKAM",
+    "target": "Jeremias",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahikam protegeu Jeremias da ira do rei Jeoaquim.",
+    "source_topic": "ahikam"
+  },
+  {
+    "source": "AHIKAM",
+    "target": "Hulda",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Ahikam foi um dos que consultaram a profetisa Hulda sobre a Lei.",
+    "source_topic": "ahikam"
+  },
+  {
+    "source": "AHILUD",
+    "target": "Baa",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahilud é pai de Baa, um oficial no reino de Salomão.",
+    "source_topic": "ahilud"
+  },
+  {
+    "source": "AHILUD",
+    "target": "Jeosafá",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahilud é pai de Jeosafá, um importante líder militar em Israel.",
+    "source_topic": "ahilud"
+  },
+  {
+    "source": "AHIMAAZ",
+    "target": "Zadok",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Ahimaaz é filho de Zadok, o sacerdote.",
+    "source_topic": "ahimaaz"
+  },
+  {
+    "source": "AHIMAAZ",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahimaaz é um aliado leal de Davi durante a revolta de Absalão.",
+    "source_topic": "ahimaaz"
+  },
+  {
+    "source": "AHIMAAZ",
+    "target": "Absalão",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Ahimaaz se opõe a Absalão, trazendo notícias a Davi sobre sua revolta.",
+    "source_topic": "ahimaaz"
+  },
+  {
+    "source": "AHIMAAZ",
+    "target": "Ahinoam",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahimaaz é pai de Ahinoam, esposa de Saul.",
+    "source_topic": "ahimaaz"
+  },
+  {
+    "source": "AHIMELECH",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahimelech ajudou David durante sua fuga, oferecendo-lhe pão sagrado.",
+    "source_topic": "ahimelech"
+  },
+  {
+    "source": "AHIMELECH",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Saul ordenou a execução de Ahimelech por sua lealdade a David.",
+    "source_topic": "ahimelech"
+  },
+  {
+    "source": "AHIMELECH",
+    "target": "Abiatar",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahimelech é o pai de Abiatar, que sobreviveu à execução e continuou a linhagem sacerdotal.",
+    "source_topic": "ahimelech"
+  },
+  {
+    "source": "AHINADAB",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão era o rei que nomeou Ahinadab como oficial de suprimentos.",
+    "source_topic": "ahinadab"
+  },
+  {
+    "source": "AHINADAB",
+    "target": "Iddo",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Iddo é o pai de Ahinadab.",
+    "source_topic": "ahinadab"
+  },
+  {
+    "source": "AHINADAB",
+    "target": "Mahanaim",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Ahinadab era responsável pela região de Mahanaim.",
+    "source_topic": "ahinadab"
+  },
+  {
+    "source": "AHINOAM",
+    "target": "Saul",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Ahinoam é esposa de Saul, o primeiro rei de Israel.",
+    "source_topic": "ahinoam"
+  },
+  {
+    "source": "AHINOAM",
+    "target": "David",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Ahinoam é a primeira esposa de David, rei de Israel.",
+    "source_topic": "ahinoam"
+  },
+  {
+    "source": "AHINOAM",
+    "target": "Amnon",
+    "target_type": "PERSON",
+    "type": "MOTHER_OF",
+    "description": "Ahinoam é mãe de Amnon, filho de David.",
+    "source_topic": "ahinoam"
+  },
+  {
+    "source": "AHISAMACH",
+    "target": "Aholiab",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahisamach é o pai de Aholiab, que também é um importante artesão do Tabernáculo.",
+    "source_topic": "ahisamach"
+  },
+  {
+    "source": "AHISHAR",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Ahishar era um membro da administração do rei Salomão, atuando como oficial da casa.",
+    "source_topic": "ahishar"
+  },
+  {
+    "source": "AHITHOPHEL",
+    "target": "Davi",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Ahithophel foi um conselheiro próximo de Davi antes de sua traição.",
+    "source_topic": "ahithophel"
+  },
+  {
+    "source": "AHITHOPHEL",
+    "target": "Absalão",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Ahithophel se uniu a Absalão durante sua revolta contra Davi.",
+    "source_topic": "ahithophel"
+  },
+  {
+    "source": "AHITHOPHEL",
+    "target": "Bate-Seba",
+    "target_type": "PERSON",
+    "type": "GRANDPARENT_OF",
+    "description": "Ahithophel é o avô de Bate-Seba, mãe de Salomão.",
+    "source_topic": "ahithophel"
+  },
+  {
+    "source": "AHITUB",
+    "target": "Eli",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahitub é filho de Finéias, que é filho de Eli, estabelecendo uma linha direta de sucessão no sacerdócio.",
+    "source_topic": "ahitub"
+  },
+  {
+    "source": "AHITUB",
+    "target": "Zadok",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahitub é pai de Zadok, que se torna um importante sumo sacerdote em Israel.",
+    "source_topic": "ahitub"
+  },
+  {
+    "source": "Ahlai, Or Ahlai",
+    "target": "Sheshan",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Ahlai é filha de Sheshan.",
+    "source_topic": "ahlai-or-ahlai"
+  },
+  {
+    "source": "Ahlai, Or Ahlai",
+    "target": "Jarha",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Ahlai é esposa de Jarha.",
+    "source_topic": "ahlai-or-ahlai"
+  },
+  {
+    "source": "Ahlai, Or Ahlai",
+    "target": "Zabad",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Zabad é descendente de Ahlai.",
+    "source_topic": "ahlai-or-ahlai"
+  },
+  {
+    "source": "Ahlai, Or Ahlai",
+    "target": "Aza-riah",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Aza-riah é descendente de Ahlai.",
+    "source_topic": "ahlai-or-ahlai"
+  },
+  {
+    "source": "AHOAH",
+    "target": "Bela",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Ahoah é filho de Bela, que é filho de Benjamin.",
+    "source_topic": "ahoah"
+  },
+  {
+    "source": "AHOAH",
+    "target": "Benjamin",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Bela, pai de Ahoah, é filho de Benjamin, o patriarca da tribo.",
+    "source_topic": "ahoah"
+  },
+  {
+    "source": "AHOLIAB",
+    "target": "Bezaleel",
+    "target_type": "PERSON",
+    "type": "COLLABORATOR_OF",
+    "description": "Aholiab trabalhou em colaboração com Bezaleel na construção do Tabernáculo.",
+    "source_topic": "aholiab"
+  },
+  {
+    "source": "Aholibamah Or Abolibamah",
+    "target": "Esaú",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Aholibamah é a esposa de Esaú, unindo suas linhagens.",
+    "source_topic": "aholibamah-or-abolibamah"
+  },
+  {
+    "source": "Aholibamah Or Abolibamah",
+    "target": "Aná",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Aná é o pai de Aholibamah, destacando a herança familiar.",
+    "source_topic": "aholibamah-or-abolibamah"
+  },
+  {
+    "source": "AHOLIBAMAH",
+    "target": "Esaú",
+    "target_type": "PERSON",
+    "type": "SPOUSE_OF",
+    "description": "Aholibamah é a esposa de Esaú, formando uma aliança entre suas famílias.",
+    "source_topic": "aholibamah"
+  },
+  {
+    "source": "AHOLIBAMAH",
+    "target": "Beeri",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Beeri é o pai de Aholibamah, ligando-a à sua linhagem edomita.",
+    "source_topic": "aholibamah"
+  },
+  {
+    "source": "AI",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou Israel na conquista de Ai.",
+    "source_topic": "ai"
+  },
+  {
+    "source": "AI",
+    "target": "Acã",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Acã foi responsável pela derrota inicial em Ai devido ao seu pecado.",
+    "source_topic": "ai"
+  },
+  {
+    "source": "AI",
+    "target": "Benjamitas",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Os benjamitas habitaram Ai após sua reconstrução.",
+    "source_topic": "ai"
+  },
+  {
+    "source": "AI",
+    "target": "Esdras",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Esdras menciona a reconstrução de Ai em seu relato.",
+    "source_topic": "ai"
+  },
+  {
+    "source": "AI",
+    "target": "Neemias",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Neemias também menciona a habitação de Ai em seu relato.",
+    "source_topic": "ai"
+  },
+  {
+    "source": "AJALON",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou Israel durante a conquista de Aijalom e o milagre no vale.",
+    "source_topic": "ajalon"
+  },
+  {
+    "source": "AJALON",
+    "target": "Amoritas",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Os amoritas eram os habitantes que os israelitas não conseguiram expulsar de Aijalom.",
+    "source_topic": "ajalon"
+  },
+  {
+    "source": "AJALON",
+    "target": "Kohathitas",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Aijalom foi atribuída aos kohathitas como uma das cidades levíticas.",
+    "source_topic": "ajalon"
+  },
+  {
+    "source": "Akeldama",
+    "target": "Judas Iscariotes",
+    "target_type": "PERSON",
+    "type": "PARTICIPANT_IN",
+    "description": "Judas Iscariotes é o traidor cuja ação levou à aquisição do campo de sangue, Akeldama.",
+    "source_topic": "akeldama"
+  },
+  {
+    "source": "ALABASTER",
+    "target": "Simão, o leproso",
+    "target_type": "PERSON",
+    "type": "HOSTED_BY",
+    "description": "Simão foi o anfitrião do jantar onde a unção ocorreu.",
+    "source_topic": "alabaster"
+  },
+  {
+    "source": "Alarm",
+    "target": "Israel",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Os israelitas são o povo que responde ao alarme das trombetas.",
+    "source_topic": "alarm"
+  },
+  {
+    "source": "Alarm",
+    "target": "Deus",
+    "target_type": "DEITY",
+    "type": "MANIFESTATION_OF",
+    "description": "O som do alarme é uma manifestação da autoridade e do chamado de Deus ao seu povo.",
+    "source_topic": "alarm"
+  },
+  {
+    "source": "ALEMETH",
+    "target": "Becher",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Alemeth é filho de Becher, um dos filhos de Benjamim.",
+    "source_topic": "alemeth"
+  },
+  {
+    "source": "ALEMETH",
+    "target": "Jehoadah",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Alemeth é filho de Jehoadah, que é descendente de Saul.",
+    "source_topic": "alemeth"
+  },
+  {
+    "source": "Alexander the Great",
+    "target": "Daniel",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Alexandre viveu na mesma época que as visões de Daniel foram dadas, refletindo a intersecção entre história e profecia.",
+    "source_topic": "alexander-the-great"
+  },
+  {
+    "source": "ALEXANDER",
+    "target": "Simão Cireneu",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "Alexandre é filho de Simão Cireneu, que carregou a cruz de Jesus.",
+    "source_topic": "alexander"
+  },
+  {
+    "source": "ALEXANDER",
+    "target": "Anás",
+    "target_type": "PERSON",
+    "type": "RELATIVE_OF",
+    "description": "Alexandre é parente de Anás, o sumo sacerdote.",
+    "source_topic": "alexander"
+  },
+  {
+    "source": "ALEXANDER",
+    "target": "Paulo",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Alexandre, o ourives, foi excomungado por Paulo devido a heresias.",
+    "source_topic": "alexander"
+  },
+  {
+    "source": "Alexandria, Or Alexandria",
+    "target": "Apolo",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Apolo era um ministro ativo em Alexandria durante o desenvolvimento inicial do cristianismo.",
+    "source_topic": "alexandria-or-alexandria"
+  },
+  {
+    "source": "ALEXANDRIA",
+    "target": "Apolo",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Apolo era um membro da comunidade judaica e cristã em Alexandria, destacando a interconexão entre as tradições.",
+    "source_topic": "alexandria"
+  },
+  {
+    "source": "Algum Or Almug Trees",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão liderou Israel durante um período de grande prosperidade, utilizando o Almug para a construção do templo.",
+    "source_topic": "algum-or-almug-trees"
+  },
+  {
+    "source": "Algum Or Almug Trees",
+    "target": "Ophir",
+    "target_type": "PLACE",
+    "type": "REGION_OF",
+    "description": "Ophir era a região de onde a madeira de Almug era importada, simbolizando as rotas comerciais de Salomão.",
+    "source_topic": "algum-or-almug-trees"
+  },
+  {
+    "source": "Alien",
+    "target": "Israel",
+    "target_type": "PLACE",
+    "type": "MEMBER_OF",
+    "description": "Os estrangeiros podem se tornar membros da comunidade de Israel ao se submeterem às leis e práticas da aliança.",
+    "source_topic": "alien"
+  },
+  {
+    "source": "ALLEGORY",
+    "target": "Natã",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Natã e Davi viveram na mesma época, com Natã servindo como profeta durante o reinado de Davi.",
+    "source_topic": "allegory"
+  },
+  {
+    "source": "ALLEGORY",
+    "target": "Hagar",
+    "target_type": "PERSON",
+    "type": "CONTRASTS_WITH",
+    "description": "Hagar é contrastada com Sara em Gálatas, representando a antiga aliança em oposição à nova aliança.",
+    "source_topic": "allegory"
+  },
+  {
+    "source": "ALLEGORY",
+    "target": "Sara",
+    "target_type": "PERSON",
+    "type": "CONTRASTS_WITH",
+    "description": "Sara é apresentada como a mãe da nova aliança, contrastando com Hagar em Gálatas.",
+    "source_topic": "allegory"
+  },
+  {
+    "source": "Alliance",
+    "target": "Josué",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Josué liderou os israelitas na aliança com os gibeonitas.",
+    "source_topic": "alliance"
+  },
+  {
+    "source": "Alliance",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão formou alianças com outros reinos, como Hiram, para fortalecer Israel.",
+    "source_topic": "alliance"
+  },
+  {
+    "source": "Alliance",
+    "target": "Gibeonitas",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Os gibeonitas se tornaram aliados dos israelitas através de uma aliança.",
+    "source_topic": "alliance"
+  },
+  {
+    "source": "ALLIANCES",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão foi o rei que estabeleceu alianças significativas com outras nações.",
+    "source_topic": "alliances"
+  },
+  {
+    "source": "ALLIANCES",
+    "target": "Hiram",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "Hiram foi aliado de Salomão através de um tratado comercial.",
+    "source_topic": "alliances"
+  },
+  {
+    "source": "ALLIANCES",
+    "target": "Faraó",
+    "target_type": "PERSON",
+    "type": "ALLY_OF",
+    "description": "O faraó do Egito fez um tratado com Salomão, fortalecendo laços comerciais.",
+    "source_topic": "alliances"
+  },
+  {
+    "source": "ALLIANCES",
+    "target": "Rezin",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Rezin formou uma coalizão contra Judá, representando uma ameaça às alianças de Israel.",
+    "source_topic": "alliances"
+  },
+  {
+    "source": "ALLIANCES",
+    "target": "Pekah",
+    "target_type": "PERSON",
+    "type": "ENEMY_OF",
+    "description": "Pekah, aliado de Rezin, também representou uma ameaça às alianças de Judá.",
+    "source_topic": "alliances"
+  },
+  {
+    "source": "Almond Tree; Almond",
+    "target": "Jeremias",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Jeremias viveu na mesma época em que as visões sobre o amendoeira foram dadas.",
+    "source_topic": "almond-tree-almond"
+  },
+  {
+    "source": "Almond Tree; Almond",
+    "target": "Moisés",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Moisés foi o líder que recebeu instruções sobre o Tabernáculo, onde o amendoeira é mencionado.",
+    "source_topic": "almond-tree-almond"
+  },
+  {
+    "source": "ALMOND",
+    "target": "Arão",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "A vara de Arão que floresceu com amêndoas exemplifica a escolha divina.",
+    "source_topic": "almond"
+  },
+  {
+    "source": "ALMOND",
+    "target": "Jacob",
+    "target_type": "PERSON",
+    "type": "PARENT_OF",
+    "description": "Jacob é o pai que enviou amêndoas a José como presente.",
+    "source_topic": "almond"
+  },
+  {
+    "source": "ALMOND",
+    "target": "José",
+    "target_type": "PERSON",
+    "type": "CHILD_OF",
+    "description": "José é o filho que recebeu as amêndoas de seu pai, Jacob.",
+    "source_topic": "almond"
+  },
+  {
+    "source": "ALMS",
+    "target": "Cornélio",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Cornélio é um exemplo de alguém que praticou esmolas e foi reconhecido por Deus por sua generosidade.",
+    "source_topic": "alms"
+  },
+  {
+    "source": "ALMS",
+    "target": "Dorcas",
+    "target_type": "PERSON",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Dorcas é um exemplo de uma mulher que dedicou sua vida a fazer esmolas e ajudar os necessitados.",
+    "source_topic": "alms"
+  },
+  {
+    "source": "ALMS",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Jesus exemplificou a verdadeira generosidade e criticou a hipocrisia nas práticas de esmolas.",
+    "source_topic": "alms"
+  },
+  {
+    "source": "Almug Trees",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão foi o rei que liderou a construção do Templo utilizando as árvores Almug.",
+    "source_topic": "almug-trees"
+  },
+  {
+    "source": "Almug",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão foi o rei que liderou a construção do templo utilizando a madeira Almug.",
+    "source_topic": "almug"
+  },
+  {
+    "source": "Almug",
+    "target": "Ofir",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "Ofir é o local de onde a madeira Almug foi extraída.",
+    "source_topic": "almug"
+  },
+  {
+    "source": "Aloes, Lign Aloes",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "EXEMPLIFIED_BY",
+    "description": "Os aloes exemplificam a honra e o respeito que foram dados a Jesus em seu sepultamento.",
+    "source_topic": "aloes-lign-aloes"
+  },
+  {
+    "source": "ALOES",
+    "target": "Jesus Cristo",
+    "target_type": "DEITY",
+    "type": "PARTICIPANT_IN",
+    "description": "Jesus é o sujeito do embalsamamento com aloés, simbolizando honra e respeito.",
+    "source_topic": "aloes"
+  },
+  {
+    "source": "ALOES",
+    "target": "Nicodemos",
+    "target_type": "PERSON",
+    "type": "DISCIPLE_OF",
+    "description": "Nicodemos, um dos discípulos de Jesus, trouxe aloés para o embalsamamento.",
+    "source_topic": "aloes"
+  },
+  {
+    "source": "Aloth",
+    "target": "Salomão",
+    "target_type": "PERSON",
+    "type": "LEADER_OF",
+    "description": "Salomão era o líder que organizou a administração territorial, incluindo Aloth.",
+    "source_topic": "aloth"
+  },
+  {
+    "source": "Aloth",
+    "target": "Aser",
+    "target_type": "TRIBE",
+    "type": "MEMBER_OF",
+    "description": "Aloth estava localizado dentro da jurisdição da tribo de Aser.",
+    "source_topic": "aloth"
+  },
+  {
+    "source": "CRUCIFIXION",
+    "target": "Pilatos",
+    "target_type": "PERSON",
+    "type": "MEMBER_OF",
+    "description": "Pilatos era o governador romano que autorizou a crucificação de Jesus.",
+    "source_topic": "crucifixion"
+  },
+  {
+    "source": "CRUCIFIXION",
+    "target": "Dois criminosos",
+    "target_type": "PERSON",
+    "type": "CONTEMPORARY_OF",
+    "description": "Os dois criminosos foram crucificados ao lado de Jesus, compartilhando o mesmo destino.",
+    "source_topic": "crucifixion"
+  },
+  {
+    "source": "CRUCIFIXION",
+    "target": "Jerusalém",
+    "target_type": "PLACE",
+    "type": "LOCATED_IN",
+    "description": "A crucificação ocorreu em Jerusalém, um local central na narrativa do Novo Testamento.",
+    "source_topic": "crucifixion"
+  }
+]

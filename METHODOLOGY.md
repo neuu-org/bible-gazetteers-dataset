@@ -2,6 +2,44 @@
 
 How the biblical gazetteers are created, curated, and scored.
 
+## Dependencies
+
+This dataset is derived from other NEUU datasets. The metrics calculation requires:
+
+| Dependency | Repository | Used for |
+|-----------|-----------|----------|
+| **Topics V3** | [bible-topics-dataset](https://github.com/neuu-org/bible-topics-dataset) | Source of entities/symbols (Phase 0 extraction) + metrics calculation |
+| **Cross-references** | [bible-crossrefs-dataset](https://github.com/neuu-org/bible-crossrefs-dataset) | Centrality metrics (cross_reference_network in topics) |
+| **Bible text** | [bible-text-dataset](https://github.com/neuu-org/bible-text-dataset) | Biblical book coverage calculation |
+
+The gazetteers are **downstream** of the topics pipeline — as more topics are enriched, the gazetteers grow and metrics improve.
+
+```
+bible-topics-dataset (7,873 topics)
+        ↓ Phase 0 (AI extraction)
+bible-gazetteers-dataset (entities + symbols + relationships)
+        ↓ calculate_metrics.py
+Curated gazetteers (100% ACTIVE with boost/priority)
+```
+
+## Metrics Glossary
+
+Quick reference for all metrics used in this dataset:
+
+| Metric | Applies to | Range | Meaning |
+|--------|-----------|-------|---------|
+| **frequency** | Both | 0 — N | How often this entry appears across the topics corpus |
+| **coverage** | Both | 0 — 66 | How many distinct biblical books reference this entry (max 66 canonical books) |
+| **centrality** | Entities | 0 — N | Importance in the cross-reference network: how many intertextual connections pass through associated topics |
+| **total_refs** | Entities | 0 — N | Total biblical references (OT + NT) in all associated topics |
+| **ref_group_count** | Entities | 0 — N | Number of distinct study aspects/reference groups in associated topics |
+| **meaning_richness** | Symbols | 0 — N | Number of distinct symbolic meanings (e.g., water = purification, judgment, Spirit, rebirth) |
+| **concept_connections** | Symbols | 0 — N | Number of theological concepts associated (e.g., water → baptism, eternal life) |
+| **total_score** | Both | 0 — N | Weighted composite score (see formulas below) |
+| **boost** | Both | 1.0 — 4.0 | Normalized search ranking weight. 4.0 = most important in its namespace |
+| **priority** | Both | 0 — 100 | Normalized ordering priority for NLP entity matching |
+| **status** | Both | ACTIVE | Curation status. ACTIVE = metrics calculated, ready for use |
+
 ## Pipeline Overview
 
 ![Metrics Pipeline](docs/figures/metrics-pipeline.png)

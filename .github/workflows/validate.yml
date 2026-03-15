@@ -1,0 +1,99 @@
+name: Validate Gazetteers
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: false  # gazetteers are small, no LFS needed
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate coherence
+        run: python scripts/validate_coherence.py
+        continue-on-error: true  # Report issues but don't block (known issues exist)
+
+      - name: Validate JSON structure
+        run: |
+          python -c "
+          import json
+          from pathlib import Path
+
+          errors = 0
+          for f in Path('data/pt').rglob('*.json'):
+              try:
+                  with open(f, encoding='utf-8') as fh:
+                      data = json.load(fh)
+                  print(f'  OK: {f}')
+              except Exception as e:
+                  print(f'  FAIL: {f}: {e}')
+                  errors += 1
+
+          if errors:
+              print(f'\n{errors} files failed JSON validation')
+              exit(1)
+          else:
+              print(f'\nAll JSON files valid')
+          "
+
+      - name: Verify structured files exist
+        run: |
+          test -f data/pt/structured/entities.json || (echo "Missing structured/entities.json" && exit 1)
+          test -f data/pt/structured/symbols.json || (echo "Missing structured/symbols.json" && exit 1)
+          test -f data/pt/structured/relationships.json || (echo "Missing structured/relationships.json" && exit 1)
+          echo "All structured files present"
+
+      - name: Check entry counts
+        run: |
+          python -c "
+          import json
+
+          with open('data/pt/structured/entities.json') as f:
+              entities = json.load(f)
+          with open('data/pt/structured/symbols.json') as f:
+              symbols = json.load(f)
+          with open('data/pt/structured/relationships.json') as f:
+              rels = json.load(f)
+
+          print(f'Entities: {len(entities)}')
+          print(f'Symbols: {len(symbols)}')
+          print(f'Relationships: {len(rels)}')
+
+          assert len(entities) > 2000, f'Too few entities: {len(entities)}'
+          assert len(symbols) > 300, f'Too few symbols: {len(symbols)}'
+          assert len(rels) > 400, f'Too few relationships: {len(rels)}'
+          print('All counts OK')
+          "
+
+      - name: Verify all entities have boost
+        run: |
+          python -c "
+          import json
+
+          with open('data/pt/structured/entities.json') as f:
+              entities = json.load(f)
+
+          no_boost = [e['name'] for e in entities if e.get('boost') is None]
+          if no_boost:
+              print(f'WARNING: {len(no_boost)} entities without boost')
+              for name in no_boost[:5]:
+                  print(f'  - {name}')
+          else:
+              print(f'All {len(entities)} entities have boost values')
+          "
